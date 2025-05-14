@@ -23,3 +23,4 @@ To participate in **AWS Cloud Quest: Cloud Practitioner** we need to prepare:
    :caption: content
 
    create amazon account
+   Login to Amazon account

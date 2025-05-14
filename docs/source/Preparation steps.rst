@@ -19,5 +19,9 @@ To participate in **AWS Cloud Quest: Cloud Practitioner** we need to prepare:
 Content
 -------
 
-- `Create Amazon account <create_account>`_
-- `Login to AWS Cloud Quest: Cloud Practitioner <login_account>`_ with Amazon account
+.. toctree::
+   :maxdepth: 2
+   :caption: Table of Contents
+
+   Create an account on Amazon
+   Login to Amazon account

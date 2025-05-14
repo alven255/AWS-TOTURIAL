@@ -4,7 +4,7 @@ Introduction
 Overview
 ---------------
 
-.. image:: pictures/Screenshot (176).png
+.. image:: pictures/intro.png
    :align: center
    :width: 700px
 

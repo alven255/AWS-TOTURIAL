@@ -11,6 +11,10 @@ Alven garque
 Rodney patinio
 
 
+.. image:: pictures/intro.png
+   :align: center
+   :width: 700px
+
 .. note::
 
    This training resource has been prepared and is maintained by our group to support learning through 

@@ -23,5 +23,4 @@ Content
    :maxdepth: 2
    :caption: Table of Contents
 
-   Create an account on Amazon
-   Login to Amazon account
+   create amazon account

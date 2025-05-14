@@ -3,6 +3,12 @@ Introduction
 
 Overview
 ---------------
+
+.. image:: pictures/Screenshot (176).png
+   :align: center
+   :width: 700px
+
+
 AWS Cloud Quest: Cloud Practitioner
 Overview
 AWS Cloud Quest is the first and only role-playing game that helps you build on-demand AWS Cloud skills.

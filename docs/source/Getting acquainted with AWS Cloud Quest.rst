@@ -8,7 +8,8 @@ In this step we will register and familiarize yourself with the interface of Clo
 
 
 
-
+Content
+--------
 .. toctree::
    :maxdepth: 2
    :caption: content

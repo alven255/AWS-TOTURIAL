@@ -7,10 +7,100 @@ After logging in, the AWS Training and Certification interface appears with the 
 1. Find and select AWS Cloud Quest: Cloud Practitioner
 2. Continue, select ENROLL
 
-Steps to create an Amazon account
 
-1. Open the app or go to the official website: `Amazon <https://www.amazon.com>`_
+.. image:: pictures/9.png
+   :align: center
+   :width: 700px
 
-.. image:: pictures/create.png
+
+3. After selecting ENROLL, select START LEARNING NOW
+
+.. image:: pictures/10.png
+   :align: center
+   :width: 700px
+
+
+4. Select Trailer Youtube video for an overview of AWS Cloud Quest: Cloud Practitioner
+
+.. image:: pictures/11.png
+   :align: center
+   :width: 700px
+
+5. After watching the video, select System Requirements to check system requirements
+ 
+. OS: 64Bit operating system (Windows, macOS and Linux)
+
+
+. Storage: 1GB available space
+
+
+. Network: Broadband internet connection
+
+
+. Graphics: Integrated or dedicated 3D graphics (Note: M1 series Mac computers may experience periodic rendering issues)
+
+
+. Browser: Firefox, Microsoft Edge and Google Chrome browser (HTML 5, WebGL 1.0 or 2.0, WASM)
+
+
+. Mobile browsers are not supported.
+
+
+.. image:: pictures/12.png
+   :align: center
+   :width: 700px
+
+
+6. After checking the system, select Play AWS Cloud Quest: Cloud Practitioner
+
+7. The interface that appears includes 12 labs ̣ (Cloud Practitioner Assignments)
+
+
+. Cloud Computing Essentials
+
+. AWS Cloud First Steps
+
+. Computing Solutions
+
+. Cloud Economics
+
+. Networking Concepts
+
+. Connecting VPCs
+
+. Databases in Practice
+
+. File Systems in the Cloud
+
+. Core Security Concepts
+
+. First NoSQL Database
+
+. Auto-healing and Scaling applications
+
+.Highly Available Web Applications
+
+
+8. Select PLAY NOW! (wait a few minutes for the theme to load)
+
+
+.. image:: pictures/13.png
+   :align: center
+   :width: 700px
+
+
+
+9. AWS Cloud Quest: Cloud Practitioner interface appears, select START GAME (takes time to load the game) 
+
+
+.. image:: pictures/14.png
+   :align: center
+   :width: 700px
+
+
+10. Done, the city interface has appeared.
+
+
+.. image:: pictures/15.png
    :align: center
    :width: 700px

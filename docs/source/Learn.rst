@@ -1,4 +1,4 @@
-Learn.rst
+Learn
 =================================
 
 1.After entering the Learn interface, select Amazon EC2 Overview

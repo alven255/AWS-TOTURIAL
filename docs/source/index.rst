@@ -11,7 +11,7 @@ Alven garque
 Rodney patinio
 
 
-.. image:: pictures/intro.png
+.. image:: pictures/start.png
    :align: center
    :width: 700px
 

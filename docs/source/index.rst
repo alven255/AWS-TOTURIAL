@@ -25,5 +25,5 @@ Contents
    :caption: Table of Contents
 
    Introduction
-   Preparation_Steps
-   Getting_acquainted_with_AWS_Cloud_Quest
+   Preparation steps
+   Getting acquainted with AWS Cloud Quest

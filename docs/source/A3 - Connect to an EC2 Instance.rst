@@ -9,7 +9,7 @@ Lab #3 of *AWS Cloud Quest: Cloud Practitioner* is *Connect to an EC2 Instance*
 
 1. In ASSIGNMENT, select *ROUTE AND GO*
 
-.. image:: pictures/route_and_go.png
+.. image:: picturesroute_and_go.png
    :align: center
    :width: 700px
 

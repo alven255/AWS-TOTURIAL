@@ -565,7 +565,7 @@ The bucket name is unique, once the name has been set, it cannot be reset
 
 50. Congratulations to the player on completing the lab
 
-.. image:: pictures/90.png
+.. image:: pictures/91.png
    :align: center
    :width: 700px
 

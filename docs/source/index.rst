@@ -32,4 +32,5 @@ Contents
    Introduction
    Preparation steps
    Getting acquainted with AWS Cloud Quest
+   A1 - Static web hosting
    A3 - Connect to an EC2 Instance

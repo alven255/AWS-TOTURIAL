@@ -1,7 +1,11 @@
 Login to AWS Cloud Quest: Cloud Practitioner with Amazon account
 ====================
 
+
+
 There are 4 options for logging into AWS Training and Certification:
+
+
 
 .Login with Amazon
 
@@ -10,6 +14,10 @@ There are 4 options for logging into AWS Training and Certification:
 .Organization SSO
 
 .Amazon Employee
+
+
+
+
 
 
 note!
@@ -21,6 +29,8 @@ Steps to sign in to AWS Training and Certification
 
 
 Go to https://explore.skillbuilder.aws/learn/signin
+
+
 Select SIGN IN TO AWS SKILL BUILDER
 
 

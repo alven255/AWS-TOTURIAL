@@ -56,7 +56,7 @@ After completing the lab, the player does DIY
 - Select Add service
 
 
-.. image:: pictures/n5.png
+.. image:: pictures/K5.png
    :align: center
    :width: 700px
 

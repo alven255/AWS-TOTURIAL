@@ -1,2 +1,18 @@
 8.2 Plan
 ====================
+
+INFO!
+
+To switch to Plan, players take the following steps after Learn
+
+- In the Plan interface
+
+- Read Practice Lab Goals
+
+- Read DIY Goals
+
+- Select Practice to conduct the lab
+
+.. image:: pictures/=.png
+   :align: center
+   :width: 700px

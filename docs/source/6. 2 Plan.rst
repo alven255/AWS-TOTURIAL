@@ -6,14 +6,15 @@ INFO!
 To switch to Plan, players take the following steps after Learn
 
 
-1. After completing Learn, select Plan
+1. Select Plan to enter Plan interface
 
-.. image:: pictures/p1.png
+
+.. image:: pictures/a3p1.png
    :align: center
    :width: 700px
 
 
-2. After entering the Plan interface
+2. In the Plan interface
 
 - Read Practice Lab Goals
 
@@ -21,6 +22,6 @@ To switch to Plan, players take the following steps after Learn
 
 - Prepare for Practice step
 
-.. image:: pictures/p2.png
+.. image:: pictures/a3p2.png
    :align: center
    :width: 700px

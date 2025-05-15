@@ -7,7 +7,7 @@ Overview
 Lab #5 of AWS Cloud Quest: Cloud Practitioner is AWS Pricing Calculator
 
 AWS Pricing Calculator
-====
+
 
 - Estimate the cost of your architectural solution.
 

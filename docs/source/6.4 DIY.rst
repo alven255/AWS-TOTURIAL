@@ -5,41 +5,43 @@ INFO!
 
 After completing the lab, the player does DIY
 
-1. Select DIY to make
+1. Select DIY
 
-.. image:: pictures/dy1.png
+.. image:: pictures/y1.png
    :align: center
    :width: 700px
 
 
 
-2. In the Plan interface
+2. In the DIY interface
 
 - Read DIY ACTIVITIES
 
 - Read SOLUTION VALIDATION METHOD
 
-- Select Open AWS Console
-
-.. image:: pictures/dy2.png
+.. image:: pictures/y2.png
    :align: center
    :width: 700px
 
 
-3. In AWS Console, find and select EC2
+3. For this DIY, we do To change the instance type for a new instance configuration
+
+- Go to the AWS Console page, find and select EC2
 
 
-.. image:: pictures/dy3.png
+.. image:: pictures/y3.png
    :align: center
    :width: 700px
 
 
-4. Select Launch instance
+4. In EC2 interface
 
-- Find EC2 service and select
+- Select Instances
+
+- Select Launch instances
 
 
-.. image:: pictures/dy4.png
+.. image:: pictures/y4.png
    :align: center
    :width: 700px
 
@@ -51,18 +53,18 @@ After completing the lab, the player does DIY
 - Select Select
 
 
-.. image:: pictures/dy5.png
+.. image:: pictures/y5.png
    :align: center
    :width: 700px
 
 
 6. In Choose an Instance Type
 
-- Select t2.micro
+- Select m4.large
 
-- Then select Next: Configure Instance Details
+- Then, select Next: Configure Instance Details
 
-.. image:: pictures/dy6.png
+.. image:: pictures/y6.png
    :align: center
    :width: 700px
 
@@ -71,72 +73,64 @@ After completing the lab, the player does DIY
 
 - Select VPC
 
-- Choose Subnet different from the subnet of Practice
-
-
-
-.. image:: pictures/dy7.png
-   :align: center
-   :width: 700px
-
-
-
-8. In Advanced Details
-
-- Select As file
-
-- Select file and download the file user-data
+- Select subnet
 
 - Select Next: Add Storage
 
 
 
-.. image:: pictures/dy8.png
+.. image:: pictures/y7.png
+   :align: center
+   :width: 700px
+
+
+
+8. In Add Storage, select Next: Add Tags
+
+
+.. image:: pictures/y8.png
    :align: center
    :width: 700px
 
 
 
 
-9. In Add Storage, select Next: Add Tags
+9. In Add Tags, Select Next: Configure Security Group
 
 
 
-.. image:: pictures/dy9.png
+.. image:: pictures/y9.png
    :align: center
    :width: 700px
 
-10. In Add Tags, select Next: Configure Security Group
 
+10. In Configure Security Group
 
-11. In Configure Security Group, create a security group
+- Select Select an existing security group
 
-- Security group name, enter Security-Group-Lab-2
-
-- Description, enter HTTP Group Lab 2
-
-- Rule, select HTTP
+- Select Security Group ID
 
 - Select Review and Launch
 
 
 
-.. image:: pictures/dy10.png
+.. image:: pictures/y10.png
    :align: center
    :width: 700px
 
 
-12. In Review Instance Launch, double check and select Launch
+11. In Review Instance Launch
 
+- Check again and select Launch
 
-.. image:: pictures/dy11.png
+.. image:: pictures/y11.png
    :align: center
    :width: 700px
 
 
 
 
-13. In Select an existing key pair or create a new key pair
+12. In Select an existing key pair or create a new key pair
 
 - Select Proceed without a key pair
 
@@ -146,105 +140,98 @@ After completing the lab, the player does DIY
 
 
 
-.. image:: pictures/dy12.png
+.. image:: pictures/y12.png
    :align: center
    :width: 700px
 
 
 
-14. Select View Instances
+13. Select View Instances
 
 
 
-.. image:: pictures/dy13.png
+.. image:: pictures/y13.png
    :align: center
    :width: 700px
 
 
 
-15. Result of creating 2 Amazon EC2 Instance
+14. Copy Instance ID
 
 
 
-.. image:: pictures/dy14.png
+.. image:: pictures/y14.png
    :align: center
    :width: 700px
 
 
 
-16. After creating 2 Amazon EC2 Instance, copy both Instance ID
+15. In the DIY interface
 
-- Paste in Instance ID in AZ1
+- Paste Instance ID into VALIDATION FORM
 
-- Paste in Instance ID in AZ2
-
-- Select VALIDATE
+- Then select VALIDATE
 
 
-
-.. image:: pictures/dy15.png
+.. image:: pictures/y15.png
    :align: center
    :width: 700px
 
 
 
-17. After selecting VALIDATE, if VALIDATION MESSAGE contains Success! … is complete
+16. In the DIY interface
+
+- Paste Instance ID into VALIDATION FORM
+
+- Then select VALIDATE
 
 
-
-
-.. image:: pictures/dy16.png
+.. image:: pictures/y16.png
    :align: center
    :width: 700px
 
 
 
-18. Select EXIT
+17. In ASSIGNMENT select COLLECT
 
 
 
-.. image:: pictures/dy17.png
+.. image:: pictures/y17.png
    :align: center
    :width: 700px
 
 
 
-19. In ASSIGNMENT select COLLECT
+18. Select NEXT
 
 
 
-.. image:: pictures/dy18.png
-   :align: center
-   :width: 700px
-
-
-
-
-20. Select NEXT
-
-
-
-
-.. image:: pictures/dy19.png
+.. image:: pictures/y18.png
    :align: center
    :width: 700px
 
 
 
 
-21. Select COLLECT
+19. Select COLLECT
 
 
 
 
-
-.. image:: pictures/dy20.png
+.. image:: pictures/y19.png
    :align: center
    :width: 700px
 
 
-22. Get rewarded
 
-.. image:: pictures/dy21.png
+
+20. Congratulations on completing Assignment 3
+
+
+
+
+.. image:: pictures/y20.png
    :align: center
    :width: 700px
+
+

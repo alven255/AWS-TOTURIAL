@@ -52,7 +52,7 @@ Content
  5.1 Learn
  5.2 Plan
  5.3 Practice
- .4 DIY
+ 5.4 DIY
 
 
 

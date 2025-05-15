@@ -21,3 +21,5 @@ Content
 
  8.1 Learn
  8.2 Plan
+ 8.3 Practice
+ 8.4 DIY

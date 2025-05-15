@@ -14,7 +14,7 @@ After completing the lab, the player does DIY
 
 
 
-.. image:: pictures/K1.png
+.. image:: pictures/k1.png
    :align: center
    :width: 700px
 
@@ -24,7 +24,7 @@ After completing the lab, the player does DIY
 
 - Select Create estimate
 
-.. image:: pictures/K2.png
+.. image:: pictures/k2.png
    :align: center
    :width: 700px
 
@@ -34,7 +34,7 @@ After completing the lab, the player does DIY
 - Select Add group
 
 
-.. image:: pictures/K3.png
+.. image:: pictures/k3.png
    :align: center
    :width: 700px
 
@@ -46,7 +46,7 @@ After completing the lab, the player does DIY
 - Select Add group
 
 
-.. image:: pictures/K4.png
+.. image:: pictures/k4.png
    :align: center
    :width: 700px
 
@@ -56,7 +56,7 @@ After completing the lab, the player does DIY
 - Select Add service
 
 
-.. image:: pictures/K5.png
+.. image:: pictures/k5.png
    :align: center
    :width: 700px
 
@@ -67,7 +67,7 @@ After completing the lab, the player does DIY
 
 - Select Configure
 
-.. image:: pictures/K6.png
+.. image:: pictures/k6.png
    :align: center
    :width: 700px
 
@@ -80,7 +80,7 @@ After completing the lab, the player does DIY
 
 - In EC2 instance specifications, select Linux
 
-.. image:: pictures/K7.png
+.. image:: pictures/k7.png
    :align: center
    :width: 700px
 
@@ -99,7 +99,7 @@ After completing the lab, the player does DIY
 - Duration of peak, enter 8 and 0
 
 
-.. image:: pictures/K8.png
+.. image:: pictures/k8.png
    :align: center
    :width: 700px
 
@@ -112,7 +112,7 @@ After completing the lab, the player does DIY
 
 
 
-.. image:: pictures/K9.png
+.. image:: pictures/k9.png
    :align: center
    :width: 700px
 
@@ -124,7 +124,7 @@ After completing the lab, the player does DIY
 
 - Select estimate workload hours
 
-.. image:: pictures/K10.png
+.. image:: pictures/k10.png
    :align: center
    :width: 700px
 
@@ -141,7 +141,7 @@ After completing the lab, the player does DIY
 
 
 
-.. image:: pictures/K11.png
+.. image:: pictures/k11.png
    :align: center
    :width: 700px
 
@@ -149,7 +149,7 @@ After completing the lab, the player does DIY
 12. View results Estimated workload hours
 
 
-.. image:: pictures/K12.png
+.. image:: pictures/k12.png
    :align: center
    :width: 700px
 
@@ -171,7 +171,7 @@ After completing the lab, the player does DIY
 - Select TB per month
 
 
-.. image:: pictures/K13.png
+.. image:: pictures/k13.png
    :align: center
    :width: 700px
 
@@ -181,7 +181,7 @@ After completing the lab, the player does DIY
 
 - View and select Add to my estimate
 
-.. image:: pictures/K14.png
+.. image:: pictures/k14.png
    :align: center
    :width: 700px
 
@@ -193,7 +193,7 @@ After completing the lab, the player does DIY
 
 
 
-.. image:: pictures/K15.png
+.. image:: pictures/k15.png
    :align: center
    :width: 700px
 
@@ -204,7 +204,7 @@ After completing the lab, the player does DIY
 
 - Select Copy public link
 
-.. image:: pictures/K16.png
+.. image:: pictures/k16.png
    :align: center
    :width: 700px
 
@@ -222,7 +222,7 @@ After completing the lab, the player does DIY
 
 - Then select EXIT to exit
 
-.. image:: pictures/K17.png
+.. image:: pictures/k17.png
    :align: center
    :width: 700px
 
@@ -233,7 +233,7 @@ After completing the lab, the player does DIY
 - Go to ASSIGNMENT, select COLLECT
 
 
-.. image:: pictures/K18.png
+.. image:: pictures/k18.png
    :align: center
    :width: 700px
 
@@ -242,7 +242,7 @@ After completing the lab, the player does DIY
 19. Select NEXT
 
 
-.. image:: pictures/K19.png
+.. image:: pictures/k19.png
    :align: center
    :width: 700px
 
@@ -251,14 +251,14 @@ After completing the lab, the player does DIY
 
 20. Select COLLECT
 
-.. image:: pictures/K20.png
+.. image:: pictures/k20.png
    :align: center
    :width: 700px
 
 
 21. Select COLLECT
 
-.. image:: pictures/K21.png
+.. image:: pictures/k21.png
    :align: center
    :width: 700px
 

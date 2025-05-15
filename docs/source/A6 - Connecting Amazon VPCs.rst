@@ -20,19 +20,23 @@ Lab #6 of AWS Cloud Quest: Cloud Practitioner is Connecting Amazon VPCs
    :align: center
    :width: 700px
 
-3. Select the ! icon
+3. Select NEXT
+
+- View Rewards
 
 .. image:: pictures/q3.png
    :align: center
    :width: 700px
 
-4. Select the ! icon
+4. Select ACCEPT
 
 .. image:: pictures/q4.png
    :align: center
    :width: 700px
 
-5. Select the ! icon
+5. See Solution Annotations
+
+- Select GO TO SOLUTION CENTER
 
 .. image:: pictures/q5.png
    :align: center

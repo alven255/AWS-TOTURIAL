@@ -32,7 +32,7 @@ After completing the lab, the player does DIY
 3. In the AWS Console page, find and select EC2
 
 
-.. image:: pictures/xc3.png
+.. image:: pictures/c3.png
    :align: center
    :width: 700px
 

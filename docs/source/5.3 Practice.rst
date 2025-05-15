@@ -1,1 +1,344 @@
+5.3 Practices
+=================================
+
+INFO!
+
+After watching Plan, the player prepares for Practice
+
+1. Select Practice to perform the lab
+
+.. image:: pictures/pr1.png
+   :align: center
+   :width: 700px
+
+
+
+2. Read the first step of Cloud First Steps and CONCEPT
+
+- Select START LAB
+
+- Select the arrow to the right to perform the next steps
+
+.. image:: pictures/pr2.png
+   :align: center
+   :width: 700px
+
+
+
+
+
+.. image:: pictures/pr2.png
+   :align: center
+   :width: 700px
+
+
+
+
+
+
+.. image:: pictures/pr2.png
+   :align: center
+   :width: 700px
+
+
+
+
+
+
+
+.. image:: pictures/pr2.png
+   :align: center
+   :width: 700px
+
+
+
+
+
+
+
+
+
+.. image:: pictures/pr2.png
+   :align: center
+   :width: 700px
+
+
+
+
+
+
+
+.. image:: pictures/pr2.png
+   :align: center
+   :width: 700px
+
+
+
+
+
+
+
+
+
+
+.. image:: pictures/pr2.png
+   :align: center
+   :width: 700px
+
+
+
+
+
+
+
+
+
+
+.. image:: pictures/pr2.png
+   :align: center
+   :width: 700px
+
+
+
+
+
+.. image:: pictures/pr2.png
+   :align: center
+   :width: 700px
+
+
+
+
+
+
+
+
+.. image:: pictures/pr2.png
+   :align: center
+   :width: 700px
+
+
+
+
+
+
+.. image:: pictures/pr2.png
+   :align: center
+   :width: 700px
+
+
+
+
+
+
+
+
+
+.. image:: pictures/pr2.png
+   :align: center
+   :width: 700px
+
+
+
+
+
+
+
+
+.. image:: pictures/pr2.png
+   :align: center
+   :width: 700px
+
+
+
+
+
+
+
+
+
+.. image:: pictures/pr2.png
+   :align: center
+   :width: 700px
+
+
+
+
+
+
+
+
+
+
+
+.. image:: pictures/pr2.png
+   :align: center
+   :width: 700px
+
+
+
+
+
+
+
+
+
+
+
+
+
+.. image:: pictures/pr2.png
+   :align: center
+   :width: 700px
+
+
+
+
+
+
+
+
+.. image:: pictures/pr2.png
+   :align: center
+   :width: 700px
+
+
+
+
+
+
+
+
+.. image:: pictures/pr2.png
+   :align: center
+   :width: 700px
+
+
+
+
+
+
+
+
+
+.. image:: pictures/pr2.png
+   :align: center
+   :width: 700px
+
+
+
+
+
+
+
+
+
+
+.. image:: pictures/pr2.png
+   :align: center
+   :width: 700px
+
+
+
+
+
+
+
+.. image:: pictures/pr2.png
+   :align: center
+   :width: 700px
+
+
+
+
+
+.. image:: pictures/pr2.png
+   :align: center
+   :width: 700px
+
+
+
+
+
+
+
+
+.. image:: pictures/pr2.png
+   :align: center
+   :width: 700px
+
+
+
+
+.. image:: pictures/pr2.png
+   :align: center
+   :width: 700px
+
+
+
+.. image:: pictures/pr2.png
+   :align: center
+   :width: 700px
+
+
+
+
+
+
+
+.. image:: pictures/pr2.png
+   :align: center
+   :width: 700px
+
+
+
+
+
+
+.. image:: pictures/pr2.png
+   :align: center
+   :width: 700px
+
+
+
+.. image:: pictures/pr2.png
+   :align: center
+   :width: 700px
+
+
+
+
+
+.. image:: pictures/pr2.png
+   :align: center
+   :width: 700px
+
+
+
+
+
+.. image:: pictures/pr2.png
+   :align: center
+   :width: 700px
+
+
+
+
+
+
+.. image:: pictures/pr2.png
+   :align: center
+   :width: 700px
+
+
+
+
+
+
+
+
+
+.. image:: pictures/pr2.png
+   :align: center
+   :width: 700px
 

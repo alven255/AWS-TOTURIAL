@@ -256,7 +256,7 @@ After completing the lab, the player does DIY
    :width: 700px
 
 
-21. Select COLLECT
+21. Congratulations to the player receiving the reward
 
 .. image:: pictures/k21.png
    :align: center

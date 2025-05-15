@@ -1,1 +1,9 @@
+Learn
+=================================
 
+1.After entering the Learn interface, select Amazon EC2 Overview
+
+
+.. image:: pictures/picturesroute_and_go.png
+   :align: center
+   :width: 700px

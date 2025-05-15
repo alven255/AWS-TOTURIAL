@@ -9,6 +9,37 @@ After receiving the Assignment 1 award, continue to perform the following steps 
 
 1. Go to ASSIGNMENTS, under Cloud First Steps, select ROUTE AND GO
 
-.. image:: pictures/create.png
+.. image:: pictures/a21.png
    :align: center
    :width: 700px
+
+
+2. Select the icon as shown
+
+.. image:: pictures/a22.png
+   :align: center
+   :width: 700px
+
+
+3. After entering the Cloud First Steps interface, select NEXT to see more about Amazon EC2, Availability Zone, AWS Region
+
+.. image:: pictures/a23.png
+   :align: center
+   :width: 700px
+
+
+4. Select ACCEPT
+
+.. image:: pictures/a24.png
+   :align: center
+   :width: 700px
+
+
+5. Select GO TO SOLUTION CENTER to move to the next steps of Assignment
+
+
+.. image:: pictures/a25.png
+   :align: center
+   :width: 700px
+
+

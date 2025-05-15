@@ -7,13 +7,13 @@ There are 4 options for logging into AWS Training and Certification:
 
 
 
-.Login with Amazon
+- Login with Amazon
 
-.AWS Partner
+- AWS Partner
 
-.Organization SSO
+- Organization SSO
 
-.Amazon Employee
+- Amazon Employee
 
 
 
@@ -24,14 +24,11 @@ note!
 This lab uses the Login with Amazon login method.
 
 
-Steps to sign in to AWS Training and Certification
+- Steps to sign in to AWS Training and Certification
 
+- Go to https://explore.skillbuilder.aws/learn/signin
 
-
-Go to https://explore.skillbuilder.aws/learn/signin
-
-
-Select SIGN IN TO AWS SKILL BUILDER
+- Select SIGN IN TO AWS SKILL BUILDER
 
 
 
@@ -51,10 +48,11 @@ Select SIGN IN TO AWS SKILL BUILDER
 
 
 
-4.Amazon login page appears:
-. Enter Email or mobile phone number
-. Enter Password
-. Then, select Sign-in
+4. Amazon login page appears:
+
+- Enter Email or mobile phone number
+- Enter Password
+- Then, select Sign-in
 
 
 

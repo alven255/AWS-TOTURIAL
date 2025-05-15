@@ -4,9 +4,14 @@ A5 - AWS Pricing Calculator
 Overview
 --------
 
-In this step we will register and familiarize yourself with the interface of Cloud Quest, then build a profile for your Cloud citizen.
+Lab #5 of AWS Cloud Quest: Cloud Practitioner is AWS Pricing Calculator
 
+AWS Pricing Calculator
+====
 
+- Estimate the cost of your architectural solution.
+
+- Configure cost estimates to suit your individual business or personal needs with AWS products and services.
 
 Content
 --------

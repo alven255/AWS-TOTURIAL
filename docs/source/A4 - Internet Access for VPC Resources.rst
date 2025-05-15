@@ -15,6 +15,7 @@ Content
    :caption: content
 
  7.1 learn
+ 7.2 Plan
 
 Perform
 --------

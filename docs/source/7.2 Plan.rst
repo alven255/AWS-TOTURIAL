@@ -9,7 +9,7 @@ To switch to Plan, players take the following steps after Learn
 
 - Select Plan to start
 
-.. image:: pictures/72a.png
+.. image:: pictures/555.png
    :align: center
    :width: 700px
 
@@ -20,6 +20,6 @@ To switch to Plan, players take the following steps after Learn
 
 - Read DIY Goals
 
-.. image:: pictures/72b.png
+.. image:: pictures/556.png
    :align: center
    :width: 700px

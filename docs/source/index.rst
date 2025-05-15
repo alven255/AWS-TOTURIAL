@@ -6,7 +6,8 @@ GROUP 4
 
 *Members:*
 
-ALVEN GARQUE Y.  , RODNEY PATINIO R.
+- ALVEN GARQUE Y.
+- RODNEY PATINIO R.
 
 .. image:: pictures/start.png
    :align: center
@@ -33,3 +34,4 @@ Contents
    A2 - Launch an Amazon EC2 Instance
    A3 - Connect to an EC2 Instance
    A4 - Internet Access for VPC Resources
+   A5 - AWS Pricing Calculator

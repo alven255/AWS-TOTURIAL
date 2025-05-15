@@ -1,0 +1,26 @@
+6.2 Plan
+=================================
+
+INFO!
+
+To switch to Plan, players take the following steps after Learn
+
+
+1. After completing Learn, select Plan
+
+.. image:: pictures/p1.png
+   :align: center
+   :width: 700px
+
+
+2. After entering the Plan interface
+
+- Read Practice Lab Goals
+
+- Read DIY Goals
+
+- Prepare for Practice step
+
+.. image:: pictures/p2.png
+   :align: center
+   :width: 700px

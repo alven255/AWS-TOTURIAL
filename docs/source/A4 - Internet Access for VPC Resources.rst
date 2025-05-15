@@ -14,10 +14,7 @@ Content
    :maxdepth: 2
    :caption: content
 
- Learn
- Plan
- Practice
- DIY
+ 7.1 learn
 
 Perform
 --------

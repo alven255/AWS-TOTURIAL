@@ -1,4 +1,4 @@
-5.3 Practices
+5.3 Practice
 =================================
 
 INFO!
@@ -24,199 +24,186 @@ After watching Plan, the player prepares for Practice
    :width: 700px
 
 
+3. Select Open AWS Console
+
+- Read step 2 of Cloud First Steps
+
+
+.. image:: pictures/pr3.png
+   :align: center
+   :width: 700px
+
+
+4. Go to AWS Console page
+
+- Find EC2 service and select
+
+
+.. image:: pictures/pr4.png
+   :align: center
+   :width: 700px
+
+
+5. Read step 3 of Cloud First Steps
+
+- Select the arrow to the right to view and take the next step
+
+
+.. image:: pictures/pr5.png
+   :align: center
+   :width: 700px
+
+
+6. Go to AWS Console page
+
+- Select EC2 Dashboard
+
+- Select Launch instance
+
+- Continue to select Launch instance
+
+
+.. image:: pictures/pr6.png
+   :align: center
+   :width: 700px
+
+
+7. Read step 4 of Cloud First Steps
+
+
+.. image:: pictures/pr7.png
+   :align: center
+   :width: 700px
 
 
 
-.. image:: pictures/pr2.png
+8. Go to AWS Console page
+
+- Select Amazon Linux 2 AMI
+
+
+
+.. image:: pictures/pr8.png
    :align: center
    :width: 700px
 
 
 
 
+9. Read step 5 of Cloud First Steps
 
 
-.. image:: pictures/pr2.png
+
+.. image:: pictures/pr9.png
+   :align: center
+   :width: 700px
+
+10. Go to AWS Console page
+
+- Choose an Instance Type, select t2.micro
+
+- Select Next: Configure Instance Details
+
+
+.. image:: pictures/pr10.png
+   :align: center
+   :width: 700px
+
+
+11. Read step 6 of Cloud First Steps
+
+- Select Lab Files
+
+
+
+.. image:: pictures/pr11.png
+   :align: center
+   :width: 700px
+
+
+12. After selecting Lab Files, select user-data and download it
+
+
+
+.. image:: pictures/pr12.png
    :align: center
    :width: 700px
 
 
 
 
+13. Read step 7 of Cloud First Steps
 
 
 
-.. image:: pictures/pr2.png
+.. image:: pictures/pr13.png
    :align: center
    :width: 700px
 
 
 
+14. Go to AWS Console
+
+- Select VPC
+
+- Select Subnet
 
 
 
-
-
-
-.. image:: pictures/pr2.png
+.. image:: pictures/pr14.png
    :align: center
    :width: 700px
 
 
 
+15. Read step 8 of Cloud First Steps
 
 
 
-
-.. image:: pictures/pr2.png
+.. image:: pictures/pr15.png
    :align: center
    :width: 700px
 
 
 
+16. In the Configure Instance Details section
+
+- In Advanced Details, select As file
+
+- Select Select file, and load the file user-data
+
+- Then, select Next: Add Storage
 
 
 
-
-
-
-
-.. image:: pictures/pr2.png
+.. image:: pictures/pr16.png
    :align: center
    :width: 700px
 
 
 
+17. Read step 9 of Cloud First Steps
 
 
 
 
-
-
-
-.. image:: pictures/pr2.png
+.. image:: pictures/pr17.png
    :align: center
    :width: 700px
 
 
 
+18. Select Next: Add Tags
 
 
-.. image:: pictures/pr2.png
+
+.. image:: pictures/pr18.png
    :align: center
    :width: 700px
 
 
 
-
-
-
-
-
-.. image:: pictures/pr2.png
-   :align: center
-   :width: 700px
-
-
-
-
-
-
-.. image:: pictures/pr2.png
-   :align: center
-   :width: 700px
-
-
-
-
-
-
-
-
-
-.. image:: pictures/pr2.png
-   :align: center
-   :width: 700px
-
-
-
-
-
-
-
-
-.. image:: pictures/pr2.png
-   :align: center
-   :width: 700px
-
-
-
-
-
-
-
-
-
-.. image:: pictures/pr2.png
-   :align: center
-   :width: 700px
-
-
-
-
-
-
-
-
-
-
-
-.. image:: pictures/pr2.png
-   :align: center
-   :width: 700px
-
-
-
-
-
-
-
-
-
-
-
-
-
-.. image:: pictures/pr2.png
-   :align: center
-   :width: 700px
-
-
-
-
-
-
-
-
-.. image:: pictures/pr2.png
-   :align: center
-   :width: 700px
-
-
-
-
-
-
-
-
-.. image:: pictures/pr2.png
-   :align: center
-   :width: 700px
-
-
-
-
-
+19. Read step 10 of Cloud First Steps
 
 
 
@@ -228,13 +215,151 @@ After watching Plan, the player prepares for Practice
 
 
 
+20. Select Next: Configure Security Group
+
+
+
+
+.. image:: pictures/pr19.png
+   :align: center
+   :width: 700px
+
+
+
+
+21. Read step 11 of Cloud First Steps
 
 
 
 
 
+.. image:: pictures/pr20.png
+   :align: center
+   :width: 700px
 
-.. image:: pictures/pr2.png
+
+
+22. Create a security group
+
+- Security group name, enter Security-Group-Lab
+
+- Description, enter HTTP Group Lab
+
+- Rule, select HTTP
+
+- Select Review and Launch
+
+
+
+.. image:: pictures/pr21.png
+   :align: center
+   :width: 700px
+
+
+23. Read step 12 of Cloud First Steps
+
+
+.. image:: pictures/pr22.png
+   :align: center
+   :width: 700px
+
+
+
+24. Double check and select Launch
+
+
+
+
+.. image:: pictures/pr23.png
+   :align: center
+   :width: 700px
+
+
+
+
+25. Read step 13 of Cloud First Steps
+
+
+.. image:: pictures/pr24.png
+   :align: center
+   :width: 700px
+
+
+
+26. Select Proceed without a key pair
+
+- Select I acknowledge…
+
+- Select Launch Instances
+
+
+.. image:: pictures/pr25.png
+   :align: center
+   :width: 700px
+
+
+27. Read step 14 of Cloud First Steps
+
+
+
+.. image:: pictures/pr26.png
+   :align: center
+   :width: 700px
+
+
+28. Select View Instance
+
+
+
+.. image:: pictures/pr27.png
+   :align: center
+   :width: 700px
+
+
+29. Read step 15 of Cloud First Steps
+
+
+.. image:: pictures/pr28.png
+   :align: center
+   :width: 700px
+
+
+30. Select the Amazon EC2 instance just created
+
+- Find and copy Public(IPv4) DNS name
+
+
+
+.. image:: pictures/pr29.png
+   :align: center
+   :width: 700px
+
+
+
+31. Read step 16 of Cloud First Steps
+
+
+
+.. image:: pictures/pr30.png
+   :align: center
+   :width: 700px
+
+
+32. Paste Public(IPv4) DNS name into the browser and Enter
+
+- View results
+
+
+.. image:: pictures/pr31.png
+   :align: center
+   :width: 700px
+
+
+33. Congratulations to the player on completing the lab
+
+
+
+.. image:: pictures/pr32.png
    :align: center
    :width: 700px
 
@@ -242,103 +367,8 @@ After watching Plan, the player prepares for Practice
 
 
 
-
-
-.. image:: pictures/pr2.png
+.. image:: pictures/pr33.png
    :align: center
    :width: 700px
 
-
-
-
-
-.. image:: pictures/pr2.png
-   :align: center
-   :width: 700px
-
-
-
-
-
-
-
-
-.. image:: pictures/pr2.png
-   :align: center
-   :width: 700px
-
-
-
-
-.. image:: pictures/pr2.png
-   :align: center
-   :width: 700px
-
-
-
-.. image:: pictures/pr2.png
-   :align: center
-   :width: 700px
-
-
-
-
-
-
-
-.. image:: pictures/pr2.png
-   :align: center
-   :width: 700px
-
-
-
-
-
-
-.. image:: pictures/pr2.png
-   :align: center
-   :width: 700px
-
-
-
-.. image:: pictures/pr2.png
-   :align: center
-   :width: 700px
-
-
-
-
-
-.. image:: pictures/pr2.png
-   :align: center
-   :width: 700px
-
-
-
-
-
-.. image:: pictures/pr2.png
-   :align: center
-   :width: 700px
-
-
-
-
-
-
-.. image:: pictures/pr2.png
-   :align: center
-   :width: 700px
-
-
-
-
-
-
-
-
-
-.. image:: pictures/pr2.png
-   :align: center
-   :width: 700px
 

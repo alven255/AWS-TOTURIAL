@@ -35,3 +35,4 @@ Contents
    A3 - Connect to an EC2 Instance
    A4 - Internet Access for VPC Resources
    A5 - AWS Pricing Calculator
+   A6 - Connecting Amazon VPCs

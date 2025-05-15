@@ -17,6 +17,7 @@ Content
  7.1 learn
  7.2 Plan
  7.3 Practice
+ 7.4 DIY
 
 Perform
 --------

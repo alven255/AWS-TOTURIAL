@@ -43,15 +43,16 @@ After receiving the Assignment 1 award, continue to perform the following steps 
    :align: center
    :width: 700px
 
+Content
+--------
 .. toctree::
    :maxdepth: 2
-   :caption:content
+   :caption: content
 
-   5.1 Learn
-   5.2 Plan
-   5.3 Practice
-   5.4 DIY
-
+ 5.1 Learn
+ 5.2 Plan
+ 5.3 Practice
+ .4 DIY
 
 
 

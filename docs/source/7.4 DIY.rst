@@ -1,2 +1,145 @@
 7.4 DIY
-====================
+=================================
+
+INFO!
+
+After completing the lab, the player does DIY
+
+1. Select DIY
+
+.. image:: pictures/c1.png
+   :align: center
+   :width: 700px
+
+
+
+2. The DIY interface appears including:
+
+- Lab Files
+
+- DIY Activity
+
+- Networking Concepts
+
+- VALIDATION FORM
+
+- Read SOLUTION VALIDATION METHOD
+.. image:: pictures/c2.png
+   :align: center
+   :width: 700px
+
+
+3. In the AWS Console page, find and select EC2
+
+
+.. image:: pictures/xc3.png
+   :align: center
+   :width: 700px
+
+
+4. Select Instances
+
+- Select Security
+
+- In Security groups, select DbServerSecurityGroup
+
+
+.. image:: pictures/c4.png
+   :align: center
+   :width: 700px
+
+
+5. In the Security Groups interface
+
+- Select Edit inbound rules
+
+
+
+.. image:: pictures/c5.png
+   :align: center
+   :width: 700px
+
+
+6. In the Edit inbound rules interface
+
+- Type: select MYSQL/Aurora
+
+- Protocol: select TCP
+
+- Prot range: enter 3306
+
+- Source: choose Custom
+
+- Then select Save rules
+
+.. image:: pictures/c6.png
+   :align: center
+   :width: 700px
+
+
+7. Interface after creating DbServerSecurityGroup
+
+.. image:: pictures/c7.png
+   :align: center
+   :width: 700px
+
+
+
+8. In the Security groups view, copy Security group name
+
+
+.. image:: pictures/c8.png
+   :align: center
+   :width: 700px
+
+
+
+
+9. After copying Security group name
+
+- Paste Security group name into VALIDATION FORM in Database Security Group name field
+
+
+- Then select VALIDATE
+
+
+
+
+.. image:: pictures/c9.png
+   :align: center
+   :width: 700px
+
+10. Results
+
+- On VALIDATION MESSAGE, appears Nice!You have properly configured your security! and done DIY
+
+- Select EXIT to exit
+
+
+.. image:: pictures/c10.png
+   :align: center
+   :width: 700px
+
+
+11. Select NEXT
+
+
+.. image:: pictures/c11.png
+   :align: center
+   :width: 700px
+
+
+12. Select COLLECT
+
+.. image:: pictures/c12.png
+   :align: center
+   :width: 700px
+
+
+
+
+13. Congratulations on completing lab 7
+
+.. image:: pictures/c13.png
+   :align: center
+   :width: 700px

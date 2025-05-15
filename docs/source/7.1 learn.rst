@@ -1,1 +1,152 @@
+7.1 Learn
+=================================
 
+INFO!
+
+Learn helps players understand more about Amazon VPC theory
+
+1. In the Learn interface
+
+- Select AWS Global Infrastructure Overview
+
+.. image:: pictures/7l1.png
+   :align: center
+   :width: 700px
+
+
+2.After watching VIDEO CONCEPT, select X to exit
+
+
+
+.. image:: pictures/7l2.png
+   :align: center
+   :width: 700px
+
+
+3. In the Learn interface
+
+- Step 2 of Diagram Steps, select Amazon VPC Overview
+
+
+.. image:: pictures/7l3.png
+   :align: center
+   :width: 700px
+
+4. After watching VIDEO CONCEPTS
+
+- Select and view Amazon VPC - Internet Connectivity
+
+- Select X to exit
+
+
+.. image:: pictures/7l4.png
+   :align: center
+   :width: 700px
+
+
+
+5. In the Learn interface
+
+- Step 3 of Diagram Steps
+
+-Select Amazon VPC Concepts
+
+.. image:: pictures/7l5.png
+   :align: center
+   :width: 700px
+
+
+6. Watch VIDEO CONCEPTS
+
+- After watching, select X to exit
+
+.. image:: pictures/7l6.png
+   :align: center
+   :width: 700px
+
+
+7. In the Learn interface
+
+- Step 4 of Diagram Steps
+
+- Select Amazon VPC Security
+
+
+.. image:: pictures/7l7.png
+   :align: center
+   :width: 700px
+
+
+8. Watch VIDEO CONCEPTS
+
+- After watching. select X to exit
+
+
+.. image:: pictures/7l8.png
+   :align: center
+   :width: 700px
+
+9. In the Learn interface
+
+- Step 5 of Diagram Steps
+
+- Select Amazon VPC - Internet Connectivity
+
+.. image:: pictures/7l9.png
+   :align: center
+   :width: 700px
+
+
+10. Watch VIDEO CONCEPTS
+
+- After watching, select X to exit
+
+.. image:: pictures/7l10.png
+   :align: center
+   :width: 700px
+
+
+11. In the Learn interface
+
+- Step 6 of Diagram Steps
+
+- Select Amaozn VPC Security
+
+
+.. image:: pictures/7l11.png
+   :align: center
+   :width: 700px
+
+
+
+12. Watch VIDEO CONCEPTS
+
+- After watching, select X to exit
+
+
+.. image:: pictures/7l12.png
+   :align: center
+   :width: 700px
+
+
+13. In the Learn interface
+
+- Step 7 of Diagram Steps
+
+- Select Amazon VPC - Internet Connectivity
+
+
+.. image:: pictures/7l13.png
+   :align: center
+   :width: 700px
+
+
+
+14. Watch VIDEO CONCEPTS
+
+- After watching, select X to exit
+
+
+.. image:: pictures/7l14.png
+   :align: center
+   :width: 700px

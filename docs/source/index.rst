@@ -6,8 +6,7 @@ Group 4
 
 *Members:*
 
-ALVEN GARQUE Y.
-RODNEY PATINIO R.
+ALVEN GARQUE Y., RODNEY PATINIO R.
 
 .. image:: pictures/start.png
    :align: center

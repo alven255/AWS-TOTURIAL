@@ -23,37 +23,34 @@ Perform
 --------
 
 
-1. In the city interface
+NOTE!
 
-- Select ASSIGNMENT
+After receiving the Assignment 3 award, continue to perform the following steps to perform Assignment 4
 
-- In Cloud Computing Essentials, select ROUTE AND GO
+1. In ASSIGNMENT
 
+- In Networing Concepts, select ROUTE AND GO
 
-.. image:: pictures/24.png
+- Select the icon as shown
+
+.. image:: pictures/a.png
    :align: center
    :width: 700px
 
-2. Select the ! icon to go to the next step
+2. View Rewards and select NEXT
 
-.. image:: pictures/25.png
+.. image:: pictures/b.png
    :align: center
    :width: 700px
 
-3. Select NEXT
+3. View Solution Annotations and select ACCEPT
 
-.. image:: pictures/26.png
+.. image:: pictures/c.png
    :align: center
    :width: 700px
 
-4. In the preparation interface
+4. Select GO TO SOLUTION CENTER, to proceed to the next steps
 
-- View Rewards
-
-- See Solution Annotations
-
-- Select ACCEPT
-
-.. image:: pictures/27.png
+.. image:: pictures/d.png
    :align: center
    :width: 700px

@@ -472,16 +472,9 @@ After watching Plan, the player prepares for Practice
    :width: 700px
 
 
-41. In the EC2 interface
-
-- View instance details
+41. Completing the Lab
 
 .. image:: pictures/00042-practice.png
    :align: center
    :width: 700px
 
-41. Completing the Lab
-
-.. image:: pictures/00043-practice.png
-   :align: center
-   :width: 700px

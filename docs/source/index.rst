@@ -35,3 +35,4 @@ Contents
    A1 - Static web hosting
    A2 - Launch an Amazon EC2 Instance
    A3 - Connect to an EC2 Instance
+   A4 - Internet Access for VPC Resources

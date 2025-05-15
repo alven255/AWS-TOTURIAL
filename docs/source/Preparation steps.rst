@@ -1,4 +1,4 @@
-PREPARATION STEPS
+Preparation steps
 ==================
 
 Overview

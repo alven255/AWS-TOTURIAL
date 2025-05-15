@@ -1,7 +1,7 @@
-Welcome to AWS Cloud Quest: Cloud Practitioner Documentation!
+WELCOME TO AWS CLOUD QUEST: CLOUD PRACTITIONER DOCUMENTATION!
 =============================================================
 
-Group 4
+GROUP 4
 =======
 
 *Members:*

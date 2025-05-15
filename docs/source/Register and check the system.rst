@@ -28,22 +28,22 @@ After logging in, the AWS Training and Certification interface appears with the 
 
 5. After watching the video, select System Requirements to check system requirements
  
-. OS: 64Bit operating system (Windows, macOS and Linux)
+- OS: 64Bit operating system (Windows, macOS and Linux)
 
 
-. Storage: 1GB available space
+- Storage: 1GB available space
 
 
-. Network: Broadband internet connection
+- Network: Broadband internet connection
 
 
-. Graphics: Integrated or dedicated 3D graphics (Note: M1 series Mac computers may experience periodic rendering issues)
+- Graphics: Integrated or dedicated 3D graphics (Note: M1 series Mac computers may experience periodic rendering issues)
 
 
-. Browser: Firefox, Microsoft Edge and Google Chrome browser (HTML 5, WebGL 1.0 or 2.0, WASM)
+- Browser: Firefox, Microsoft Edge and Google Chrome browser (HTML 5, WebGL 1.0 or 2.0, WASM)
 
 
-. Mobile browsers are not supported.
+- Mobile browsers are not supported.
 
 
 .. image:: pictures/12.png
@@ -56,29 +56,29 @@ After logging in, the AWS Training and Certification interface appears with the 
 7. The interface that appears includes 12 labs ̣ (Cloud Practitioner Assignments)
 
 
-. Cloud Computing Essentials
+- Cloud Computing Essentials
 
-. AWS Cloud First Steps
+- AWS Cloud First Steps
 
-. Computing Solutions
+- Computing Solutions
 
-. Cloud Economics
+- Cloud Economics
 
-. Networking Concepts
+- Networking Concepts
 
-. Connecting VPCs
+- Connecting VPCs
 
-. Databases in Practice
+- Databases in Practice
 
-. File Systems in the Cloud
+- File Systems in the Cloud
 
-. Core Security Concepts
+- Core Security Concepts
 
-. First NoSQL Database
+- First NoSQL Database
 
-. Auto-healing and Scaling applications
+- Auto-healing and Scaling applications
 
-.Highly Available Web Applications
+- Highly Available Web Applications
 
 
 8. Select PLAY NOW! (wait a few minutes for the theme to load)

@@ -1,0 +1,14 @@
+5.2 plan
+=================================
+
+INFO!
+
+To switch to Plan, players take the following steps after Learn
+
+After completing Learn, select Plan
+
+1. In the Learn interface, select AWS Global Infrastructure Overview
+
+.. image:: pictures/l1.png
+   :align: center
+   :width: 700px

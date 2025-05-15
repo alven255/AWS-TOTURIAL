@@ -48,4 +48,3 @@ Learn helps players understand more about Amazon EC2 theory
    :align: center
    :width: 700px
 
-

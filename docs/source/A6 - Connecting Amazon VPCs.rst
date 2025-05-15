@@ -10,9 +10,35 @@ Lab #6 of AWS Cloud Quest: Cloud Practitioner is Connecting Amazon VPCs
 
 - Select ROUTE AND GO
 
-.. image:: pictures/24.png
+.. image:: pictures/q1.png
    :align: center
    :width: 700px
+
+2. Select the ! icon
+
+.. image:: pictures/q2.png
+   :align: center
+   :width: 700px
+
+3. Select the ! icon
+
+.. image:: pictures/q3.png
+   :align: center
+   :width: 700px
+
+4. Select the ! icon
+
+.. image:: pictures/q4.png
+   :align: center
+   :width: 700px
+
+5. Select the ! icon
+
+.. image:: pictures/q5.png
+   :align: center
+   :width: 700px
+
+
 
 
 Content

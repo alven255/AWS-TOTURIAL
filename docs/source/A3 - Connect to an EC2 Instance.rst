@@ -50,7 +50,7 @@ Content
    :caption: content
 
  6.1 Learn
- 6.2 Plan
+ 6. 2 Plan
  6.3 Practice
  6.4 DIY
 

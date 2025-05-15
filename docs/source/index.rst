@@ -33,4 +33,5 @@ Contents
    Preparation steps
    Getting acquainted with AWS Cloud Quest
    A1 - Static web hosting
+   A2 - Launch an Amazon EC2 Instance
    A3 - Connect to an EC2 Instance

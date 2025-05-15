@@ -41,3 +41,15 @@ Lab #3 of *AWS Cloud Quest: Cloud Practitioner* is *Connect to an EC2 Instance*
 .. image:: pictures/started_learne.png
    :align: center
    :width: 700px
+
+
+Content
+--------
+.. toctree::
+   :maxdepth: 2
+   :caption: content
+
+ 6.1 Learn
+ 6.2 Plan
+ 6.3 Practice
+ 6.4 DIY

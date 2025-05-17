@@ -1,2 +1,128 @@
 9.2 Plan
-====================
+=================================
+
+INFO!
+
+Learn helps players understand more theory about Connecting VPCs
+
+1. In the Learn interface
+
+- See step 1 of Diagram Steps
+
+- Select Amazon VPC Overview
+
+.. image:: pictures/w1.png
+   :align: center
+   :width: 700px
+
+
+2. Watch video Amazon VPC Overview
+
+- Select X to exit
+
+
+
+.. image:: pictures/w2.png
+   :align: center
+   :width: 700px
+
+
+3. Watch video Amazon VPC Overview
+
+- Select X to exit
+
+
+
+.. image:: pictures/w3.png
+   :align: center
+   :width: 700px
+
+4. In the Learn interface
+
+- See step 3 of Diagram Steps
+
+- Select Amazon VPC Peering Connections
+
+
+.. image:: pictures/w4.png
+   :align: center
+   :width: 700px
+
+
+
+5. Watch a video about Amazon VPC Peering Connections
+
+- Select X to exit
+
+.. image:: pictures/w5.png
+   :align: center
+   :width: 700px
+
+
+6. In the Learn interface
+
+- See step 4 of Diagram Steps
+
+- Select Amazon VPC Peering Connections
+
+.. image:: pictures/w6.png
+   :align: center
+   :width: 700px
+
+
+7. Watch video Amazon VPC Peering Connections
+
+- Select X to exit
+
+
+.. image:: pictures/w7.png
+   :align: center
+   :width: 700px
+
+
+8. In the Learn interface
+
+- See step 5 of Diagram Steps
+
+
+
+.. image:: pictures/w8.png
+   :align: center
+   :width: 700px
+
+9. In the Learn interface
+
+- See step 6 of Diagram Steps
+
+.. image:: pictures/w9.png
+   :align: center
+   :width: 700px
+
+
+10. In the Learn interface
+
+- See step 7 of Diagram Steps
+
+.. image:: pictures/w10.png
+   :align: center
+   :width: 700px
+
+
+11. In the Learn interface
+
+- See step 8 of Diagram Steps
+
+
+.. image:: pictures/w11.png
+   :align: center
+   :width: 700px
+
+
+
+12. In the Learn interface
+
+- See step 9 of **Diagram Steps
+
+.. image:: pictures/w12.png
+   :align: center
+   :width: 700px

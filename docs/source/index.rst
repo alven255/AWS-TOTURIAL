@@ -36,3 +36,4 @@ Contents
    A4 - Internet Access for VPC Resources
    A5 - AWS Pricing Calculator
    A6 - Connecting Amazon VPCs
+   A7 - Database

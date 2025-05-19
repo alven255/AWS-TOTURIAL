@@ -12,7 +12,7 @@ Content
    :maxdepth: 2
    :caption: content
 
- 8.1 Learn
- 8.2 Plan
- 8.3 Practice
- 8.4 DIY
+ 10.1 Learn
+ 10.2 Plan
+ 10.3 Practice
+ 10.4 DIY

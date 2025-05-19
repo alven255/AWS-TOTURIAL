@@ -1,2 +1,560 @@
 9.4 DIY
-====================
+=================================
+
+INFO!
+
+AAfter completing the lab, the player does DIY
+
+1. Interface DIY
+
+- Read DIY ACTIVITIES
+
+- Read SOLUTION VALIDATION METHOD
+
+
+.. image:: pictures/M1.png
+   :align: center
+   :width: 700px
+
+
+
+2. Select Open AWS Console
+
+.. image:: pictures/M2.png
+   :align: center
+   :width: 700px
+
+
+3. In the AWS Console interface
+
+- Find VPC
+
+- Select VPC
+
+- Select Your VPCs
+
+- View the VPC
+
+.. image:: pictures/M3.png
+   :align: center
+   :width: 700px
+
+
+4. In the AWS Console interface
+
+- Find EC2
+
+- Select EC2
+
+.. image:: pictures/M4.png
+   :align: center
+   :width: 700px
+
+
+5. In the EC2 interface
+
+- Select Instances
+
+- Select Developer Server
+
+- Select Details
+
+- View VPC ID
+
+- Select Connect
+
+.. image:: pictures/M5.png
+   :align: center
+   :width: 700px
+
+
+6. In the Connect to instance interface
+
+- Select EC2 instance Connect
+
+- Select Connect
+
+
+.. image:: pictures/M6.png
+   :align: center
+   :width: 700px
+
+
+7. In CLI . interface
+
+- Enter ping 172.31.0.10
+
+- View results
+
+
+
+.. image:: pictures/M7.png
+   :align: center
+   :width: 700px
+
+
+
+8. In the EC2 interface
+
+- Select Developer Server
+
+- Select Subnet ID
+
+
+.. image:: pictures/M8.png
+   :align: center
+   :width: 700px
+
+
+
+
+9. In the Subnet interface
+
+- Select DeveloperPublicSubnet1
+
+- Select Route table
+
+
+
+.. image:: pictures/M9.png
+   :align: center
+   :width: 700px
+
+10. OIn the Route tables interface
+
+- Select DeveloperPublicSubnet1
+
+- Select Routes
+
+- View the route rules
+
+.. image:: pictures/M10.png
+   :align: center
+   :width: 700px
+
+
+11. In the VPC interface
+
+- Select Peering Connections
+
+- Select Create peering connection
+
+
+.. image:: pictures/M11.png
+   :align: center
+   :width: 700px
+
+
+12. In the Peering connection settings interface
+
+- Name, enter Developer <> Finance
+
+- Select VPC ID
+
+- Account, select My account
+
+- Region, select This Region (us-east-1)
+
+
+
+.. image:: pictures/M12.png
+   :align: center
+   :width: 700px
+
+
+
+
+13. In the Practice interface
+
+- Read step 7 of Networking Concepts
+
+- Read CONCEPT
+
+- Select the right arrow to see the next steps
+
+
+
+.. image:: pictures/M13.png
+   :align: center
+   :width: 700px
+
+
+
+14. In the Practice interface
+
+- Read step 7 of Networking Concepts
+
+- Read CONCEPT
+
+- Select the right arrow to see the next steps
+
+
+
+.. image:: pictures/M14.png
+   :align: center
+   :width: 700px
+
+
+
+15. In the Practice interface
+
+- Read step 8 of Networking Concepts
+
+- Read CONCEPT
+
+- Select the right arrow to see the next steps
+
+
+.. image:: pictures/M15.png
+   :align: center
+   :width: 700px
+
+
+
+16. In the Subnet interface
+
+- Select network-concepts
+
+- Select Route table
+
+- Choose the name Route table
+
+.. image:: pictures/M16.png
+   :align: center
+   :width: 700px
+
+
+
+17. In the Practice interface
+
+- Read step 9 of Networking Concepts
+
+- Read CONCEPT
+
+- Select the right arrow to see the next steps
+
+
+
+.. image:: pictures/M17.png
+   :align: center
+   :width: 700px
+
+
+
+18. In the Route tables interface
+
+- Choose the name Route table
+
+- Select Routes
+
+- View details about Routes
+
+- Select Edit routes
+
+
+.. image:: pictures/M18.png
+   :align: center
+   :width: 700px
+
+
+
+19. In the Practice interface
+
+- Read step 10 of Networking Concepts
+
+- Read CONCEPT
+
+- Select the right arrow to see the next steps
+
+
+
+
+.. image:: pictures/M19.png
+   :align: center
+   :width: 700px
+
+
+
+
+20. In the Edit routes interface
+
+- View NAT gateway
+
+- Select Remove
+
+
+
+.. image:: pictures/M20.png
+   :align: center
+   :width: 700px
+
+
+
+
+21. In the Practice interface
+
+- Read step 11 of Networking Concepts
+
+- Read CONCEPT
+
+- Select the right arrow to see the next steps
+
+
+
+
+
+.. image:: pictures/M21.png
+   :align: center
+   :width: 700px
+
+
+
+22. In the Edit routes interface
+
+- Select Add route
+
+- In Destination, enter 0.0.0.0/0
+
+- In Target, select Internet Gateway
+
+- Select igw-xxxxxxx(network-concepts/VPC)
+
+- Select Save changes
+
+
+
+.. image:: pictures/M22.png
+   :align: center
+   :width: 700px
+
+
+23. In the Practice interface
+
+- Read step 12 of Networking Concepts
+
+- Read CONCEPT
+
+- Select the right arrow to see the next steps
+
+
+.. image:: pictures/M23.png
+   :align: center
+   :width: 700px
+
+
+
+24. In the Route Tables interface
+
+- View details Route table
+
+- Select Services
+
+
+
+
+.. image:: pictures/M24.png
+   :align: center
+   :width: 700px
+
+
+
+
+25. In the Practice interface
+
+- Read step 13 of Networking Concepts
+
+- Select the right arrow to see the next steps
+
+
+.. image:: pictures/M25.png
+   :align: center
+   :width: 700px
+
+
+
+26. In the EC2 interface
+
+- Select Web Server instance
+
+- Select Security
+
+- Select Security group
+
+
+.. image:: pictures/M26.png
+   :align: center
+   :width: 700px
+
+
+27. In the Practice interface
+
+- Read step 14 of Networking Concepts
+
+- Read CONCEPT
+
+- Select the right arrow to see the next steps
+
+
+
+.. image:: pictures/M27.png
+   :align: center
+   :width: 700px
+
+
+28. In the Security Groups interface
+
+- Select Edit inbound rules
+
+
+
+.. image:: pictures/M28.png
+   :align: center
+   :width: 700px
+
+
+29. In the Practice interface
+
+- Read step 15 of Networking Concepts
+
+- Read CONCEPT
+
+- Select the right arrow to see the next steps
+
+
+.. image:: pictures/M29.png
+   :align: center
+   :width: 700px
+
+
+30. SIn the Edit inbound rules interface
+
+- Select Add rule
+
+
+
+
+.. image:: pictures/M30.png
+   :align: center
+   :width: 700px
+
+
+
+31. In the Practice interface
+
+- Read step 15 of Networking Concepts
+
+- Read CONCEPT
+
+- Select the right arrow to see the next steps
+
+
+.. image:: pictures/M31.png
+   :align: center
+   :width: 700px
+
+
+32. In the Edit inbound rules interface
+
+- Type, select HTTP
+
+- Source, select Anywhere-IPv4
+
+- Select Save rules
+
+
+.. image:: pictures/M32.png
+   :align: center
+   :width: 700px
+
+
+33. In the Practice interface
+
+- Read step 16 of Networking Concepts
+
+- Read CONCEPT
+
+- Select the right arrow to see the next steps
+
+
+
+
+.. image:: pictures/M33.png
+   :align: center
+   :width: 700px
+
+
+34. CIn the EC2 interface
+
+- Select Instances
+
+
+.. image:: pictures/M34.png
+   :align: center
+   :width: 700px
+
+35. In the Practice interface
+
+- Read step 18 of Networking Concepts
+
+- Select the right arrow to see the next steps
+
+
+
+
+.. image:: pictures/M35.png
+   :align: center
+   :width: 700px
+
+
+36. In the EC2 interface
+
+- Select Web Server instance
+
+- Select Networking
+
+- Select and copy Public IPv4 address
+
+
+
+.. image:: pictures/M36.png
+   :align: center
+   :width: 700px
+
+
+37. Trong giao diện thành phố
+
+- Chọn ASSIGNMENTs
+
+- Chọn COLLECT
+
+
+
+.. image:: pictures/M37.png
+   :align: center
+   :width: 700px
+
+38. Chọn NEXT
+
+
+
+
+.. image:: pictures/M38.png
+   :align: center
+   :width: 700px
+
+
+39.Chọn COLLECT
+
+
+
+.. image:: pictures/M39.png
+   :align: center
+   :width: 700px
+
+40.Chúc mừng người chơi đã hoàn thành bài lab
+
+
+
+.. image:: pictures/M40.png
+   :align: center
+   :width: 700px

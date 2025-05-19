@@ -5,7 +5,15 @@ INFO!
 
 After watching Plan, the player prepares for Practice
 
-1. Select Practice to perform the lab
+1. Interface Practice
+
+- Read step 1 of Connecting VPCs
+
+- Read CONCEPT
+
+- Select START LAB
+
+- Select the arrow to the right to go to the next step
 
 .. image:: pictures/D2.png
    :align: center
@@ -15,28 +23,24 @@ After watching Plan, the player prepares for Practice
 
 2. In the Practice interface
 
-- Read step 1 of Networking Concepts
+- Read step 2 of Connecting VPCs
 
 - Read CONCEPT
 
-- Select START LAB
+- Select Open AWS Console
 
-- Select the arrow to the right to see the next steps
+- Select the arrow to the right to see the next step
 
 .. image:: pictures/D3.png
    :align: center
    :width: 700px
 
 
-3. In the Practice interface
+3. In the AWS Console interface
 
-- Read step 3 of *Networking Concepts
+- Find VPC
 
-- Read CONCEPT
-
-- Select Open AWS Console
-
-- Select the arrow to the right to see the next steps
+- Select VPC
 
 
 .. image:: pictures/D4.png
@@ -44,9 +48,13 @@ After watching Plan, the player prepares for Practice
    :width: 700px
 
 
-4. In the AWS Console interface
+4. In the Practice interface
 
-- Find and select EC2
+- Read step 3 of Connecting VPCs
+
+- Read CONCEPT
+
+- Select the arrow to the right to see the next step
 
 
 .. image:: pictures/D5.png
@@ -54,11 +62,11 @@ After watching Plan, the player prepares for Practice
    :width: 700px
 
 
-5. In the Learn interface
+5. Interface VPCs
 
-- Read step 3 of Networking Concepts
+- Select Your VPCs
 
-- Select the arrow to the right to see the next steps
+- View VPCs: Marketing, Finance and Developer
 
 
 .. image:: pictures/D6.png
@@ -66,9 +74,11 @@ After watching Plan, the player prepares for Practice
    :width: 700px
 
 
-6. In the EC2 interface
+6. In the Practice interface
 
-- Select Instances
+- Read step 4 of Connecting VPCs
+
+- Select the arrow to the right to see the next step
 
 
 .. image:: pictures/D7.png
@@ -76,12 +86,11 @@ After watching Plan, the player prepares for Practice
    :width: 700px
 
 
-7. In the Learn interface
+7. In the AWS Console interface
 
-- Read step 4 Networking Concepts
+- Find EC2
 
-- Select the arrow to the right to see the next steps
-
+- Select EC2
 
 .. image:: pictures/D8.png
    :align: center
@@ -89,12 +98,11 @@ After watching Plan, the player prepares for Practice
 
 
 
-8. In the EC2 interface
+8. In the Practice interface
 
-- Select Web Server instance
+- Read step 5 of Connecting VPCs
 
-- Copy Public IPv4 address
-
+- Select the arrow to the right to see the next steps
 
 .. image:: pictures/D9.png
    :align: center
@@ -103,12 +111,9 @@ After watching Plan, the player prepares for Practice
 
 
 
-9. In the Learn interface
+9. In the EC2 interface
 
-- Read step 5 Networking Concepts
-
--Select the right arrow to see the next steps
-
+- Select Instances (running)
 
 
 
@@ -116,11 +121,13 @@ After watching Plan, the player prepares for Practice
    :align: center
    :width: 700px
 
-10. Open the browser
+10. In the Practice interface
 
-- Paste Public Ipv4 address and browser
+- Read step 6 of Connecting VPCs
 
-- View returned results
+- Read CONCEPT
+
+- Select the right arrow to see the next steps
 
 
 .. image:: pictures/D11.png
@@ -128,14 +135,13 @@ After watching Plan, the player prepares for Practice
    :width: 700px
 
 
-11. In the Learn interface
+11. In the EC2 interface
 
-- Read step 6 Networking Concepts
+- Select Financial Services Server
 
-- Read CONCEPT
+- Select Details to see details Financial Services Server
 
-- Select the arrow to the right to see the next step
-
+- View Subnet ID of FinancePrivateSubnet
 
 
 .. image:: pictures/D12.png
@@ -143,33 +149,31 @@ After watching Plan, the player prepares for Practice
    :width: 700px
 
 
-12. In the EC2 interface
+12. In the Practice interface
 
-- Select Web Server instance
+- Read step 7 of Connecting VPCs
 
-- Select Networking
+- Select CONCEPT
 
--In Networking details, see details Public IPv4 address and Private IPv4 addressses
+- Select the arrow to the right to see the next steps
 
-
-.. image:: pictures/x12.png
+.. image:: pictures/D13.png
    :align: center
    :width: 700px
 
 
 
 
-13. In the Practice interface
+13. In the EC2 interface
 
-- Read step 7 of Networking Concepts
+- Select Marketing Server
 
-- Read CONCEPT
+- View VPC ID
 
-- Select the right arrow to see the next steps
+- Select Connect
 
 
-
-.. image:: pictures/x13.png
+.. image:: pictures/D14.png
    :align: center
    :width: 700px
 
@@ -177,77 +181,68 @@ After watching Plan, the player prepares for Practice
 
 14. In the Practice interface
 
-- Read step 7 of Networking Concepts
+- Read step 8 of Connecting VPCs
 
 - Read CONCEPT
 
-- Select the right arrow to see the next steps
+- Select the arrow to the right to see the next steps
 
 
-
-.. image:: pictures/x14.png
+.. image:: pictures/D15.png
    :align: center
    :width: 700px
 
 
 
-15. In the Practice interface
+15. In the Connect to instance interface
 
-- Read step 8 of Networking Concepts
+- Select EC2 instance Connect
 
-- Read CONCEPT
-
-- Select the right arrow to see the next steps
+- Select Connect
 
 
-.. image:: pictures/x15.png
+.. image:: pictures/D16.png
    :align: center
    :width: 700px
 
 
 
-16. In the Subnet interface
+16. In the Practice interface
 
-- Select network-concepts
+- Read step 9 of Connecting VPCs
 
-- Select Route table
+- Select the arrow to the right to see the next steps
 
-- Choose the name Route table
 
-.. image:: pictures/x16.png
+.. image:: pictures/D17.png
    :align: center
    :width: 700px
 
 
 
-17. In the Practice interface
+17. In the Amazon Linux 2 AMI interface
 
-- Read step 9 of Networking Concepts
+- Enter ping 172.31.0.10
 
-- Read CONCEPT
-
-- Select the right arrow to see the next steps
+- View results
 
 
 
-.. image:: pictures/x17.png
+
+.. image:: pictures/D18.png
    :align: center
    :width: 700px
 
 
 
-18. In the Route tables interface
+18. In the VPC interface
 
-- Choose the name Route table
+- Select Marketing Server
 
-- Select Routes
-
-- View details about Routes
-
-- Select Edit routes
+- Select Details to see details
 
 
-.. image:: pictures/x18.png
+.. image:: pictures/D19.png
    :align: center
    :width: 700px
 
@@ -255,31 +250,27 @@ After watching Plan, the player prepares for Practice
 
 19. In the Practice interface
 
-- Read step 10 of Networking Concepts
+- Read step 11 of Connecting VPCs
 
 - Read CONCEPT
 
-- Select the right arrow to see the next steps
 
 
 
-
-.. image:: pictures/x19.png
+.. image:: pictures/D20.png
    :align: center
    :width: 700px
 
 
 
 
-20. In the Edit routes interface
+20. In the VPC interface
 
-- View NAT gateway
-
-- Select Remove
+- View and select Subnet ID
 
 
 
-.. image:: pictures/x20.png
+.. image:: pictures/D21.png
    :align: center
    :width: 700px
 
@@ -288,66 +279,54 @@ After watching Plan, the player prepares for Practice
 
 21. In the Practice interface
 
-- Read step 11 of Networking Concepts
+- Read step 12 of Connecting VPCs
 
 - Read CONCEPT
 
-- Select the right arrow to see the next steps
+- Select the arrow to the right to see the next step
 
 
 
 
-
-.. image:: pictures/x21.png
+.. image:: pictures/D22.png
    :align: center
    :width: 700px
 
 
 
-22. In the Edit routes interface
+22. In the VPC interface
 
-- Select Add route
+- Select MarketingPublicSubnetSubnet1
 
-- In Destination, enter 0.0.0.0/0
-
-- In Target, select Internet Gateway
-
-- Select igw-xxxxxxx(network-concepts/VPC)
-
-- Select Save changes
+- Select Route table named MarketingPublicSubnetSubnet1
 
 
 
-.. image:: pictures/x22.png
+.. image:: pictures/D23.png
    :align: center
    :width: 700px
 
 
 23. In the Practice interface
 
-- Read step 12 of Networking Concepts
+- Read step 13 of Connecting VPCs
 
-- Read CONCEPT
+- Read CONCEPT -Select the arrow to the right to see the next steps
 
-- Select the right arrow to see the next steps
-
-
-.. image:: pictures/x23.png
+.. image:: pictures/D24.png
    :align: center
    :width: 700px
 
 
 
-24. In the Route Tables interface
+24.In the Route table interface
 
-- View details Route table
+- Select Routes
 
-- Select Services
-
-
+- View the routing rules
 
 
-.. image:: pictures/x24.png
+.. image:: pictures/D25.png
    :align: center
    :width: 700px
 
@@ -356,79 +335,82 @@ After watching Plan, the player prepares for Practice
 
 25. In the Practice interface
 
-- Read step 13 of Networking Concepts
+- Read step 14 of Networking Concepts
 
 - Select the right arrow to see the next steps
 
 
-.. image:: pictures/x25.png
+.. image:: pictures/D26.png
    :align: center
    :width: 700px
 
 
 
-26. In the EC2 interface
+26. In the VPC interface
 
-- Select Web Server instance
+- Select Peering Connections
 
-- Select Security
-
-- Select Security group
+- Select Create peering connection
 
 
-.. image:: pictures/x26.png
+.. image:: pictures/D27.png
    :align: center
    :width: 700px
 
 
 27. In the Practice interface
 
-- Read step 14 of Networking Concepts
+- Read step 15 of Connecting VPCs
 
 - Read CONCEPT
 
-- Select the right arrow to see the next steps
+- Select the arrow to the right to see the next steps
 
 
 
-.. image:: pictures/x27.png
+
+.. image:: pictures/D28.png
    :align: center
    :width: 700px
 
 
-28. In the Security Groups interface
+28. In the Create peering connection interface
 
-- Select Edit inbound rules
+- In Peering connection settings, Name, enter Marketing <> Finance
+
+- Select VPC ID
+
+- Account, select My account
+
+- Region, select This Region (us-east-1)
+
+- Select VPC ID (Accepter)
 
 
-
-.. image:: pictures/x28.png
+.. image:: pictures/D29.png
    :align: center
    :width: 700px
 
 
 29. In the Practice interface
 
-- Read step 15 of Networking Concepts
+- Read step 16 of Connecting VPCs
 
-- Read CONCEPT
+- Select the arrow to the right to see the next steps
 
-- Select the right arrow to see the next steps
-
-
-.. image:: pictures/x29.png
+.. image:: pictures/D30.png
    :align: center
    :width: 700px
 
 
-30. SIn the Edit inbound rules interface
+30. In the VPC interface
 
-- Select Add rule
-
-
+- Select Create peering connection
 
 
-.. image:: pictures/x30.png
+
+
+.. image:: pictures/D31.png
    :align: center
    :width: 700px
 
@@ -436,110 +418,113 @@ After watching Plan, the player prepares for Practice
 
 31. In the Practice interface
 
-- Read step 15 of Networking Concepts
+- Read step 17 of Connecting VPCs
 
 - Read CONCEPT
 
-- Select the right arrow to see the next steps
+- Select the arrow to the right to see the next steps
 
 
-.. image:: pictures/x31.png
+.. image:: pictures/D32.png
    :align: center
    :width: 700px
 
 
-32. In the Edit inbound rules interface
+32. Results after creating Peering connections
 
-- Type, select HTTP
-
-- Source, select Anywhere-IPv4
-
-- Select Save rules
+- Select Actions, select Accept request
 
 
-.. image:: pictures/x32.png
+
+.. image:: pictures/D33.png
    :align: center
    :width: 700px
 
 
 33. In the Practice interface
 
-- Read step 16 of Networking Concepts
+- Read step 18 of Connecting VPCs
 
-- Read CONCEPT
-
-- Select the right arrow to see the next steps
+- Select the arrow to the right to see the next steps
 
 
 
 
-.. image:: pictures/x33.png
+
+.. image:: pictures/D34.png
    :align: center
    :width: 700px
 
 
-34. CIn the EC2 interface
+34. In the VPC* interface
 
-- Select Instances
+- In Accept VPC peering connection request, select Accept request
 
 
-.. image:: pictures/x34.png
+
+.. image:: pictures/D35.png
    :align: center
    :width: 700px
 
 35. In the Practice interface
 
-- Read step 18 of Networking Concepts
+- Read step 19 of Connecting VPCs
 
-- Select the right arrow to see the next steps
+- Read CONCEPT
+
+- Select the arrow to the right to see the next steps
 
 
-
-
-.. image:: pictures/x35.png
+.. image:: pictures/D36.png
    :align: center
    :width: 700px
 
 
-36. In the EC2 interface
+36. In the VPC interface
 
-- Select Web Server instance
+- Select Route Tables
 
-- Select Networking
+- Select the route table named MarketingPublicSubnet1
 
-- Select and copy Public IPv4 address
+- Select Routes
+
+- Select Edit routes
 
 
 
-.. image:: pictures/x36.png
+.. image:: pictures/D37.png
    :align: center
    :width: 700px
 
 
 37. In the Practice interface
 
-- Read step 19 of Networking Concepts
+- Read step 19 of Connecting VPCs
 
 - Read CONCEPT
 
-- Select the right arrow to see the next steps
+- Select the arrow to the right to see the next steps
 
 
 
-.. image:: pictures/x37.png
+.. image:: pictures/D38.png
    :align: center
    :width: 700px
 
-38. Open a browser
+38. In the Edit routes interface
 
-- Paste Public Ipv4 address
+- Select Add route
 
-- Results returned
+- In Destination, enter 172.31.0.0/16
+
+- In Target, select Marketing <> Finance
+
+- Select Save changes
 
 
 
 
-.. image:: pictures/x38.png
+.. image:: pictures/D39.png
    :align: center
    :width: 700px
 
@@ -548,19 +533,19 @@ After watching Plan, the player prepares for Practice
 
 
 
-.. image:: pictures/x39.png
+.. image:: pictures/D40.png
    :align: center
    :width: 700px
 
 40. Select Practice to perform the lab
 
-.. image:: pictures/x1.png
+.. image:: pictures/D41.png
    :align: center
    :width: 700px
 
 
 
-2. In the Practice interface
+41. In the Practice interface
 
 - Read step 1 of Networking Concepts
 
@@ -570,12 +555,12 @@ After watching Plan, the player prepares for Practice
 
 - Select the arrow to the right to see the next steps
 
-.. image:: pictures/x2.png
+.. image:: pictures/D42.png
    :align: center
    :width: 700px
 
 
-3. In the Practice interface
+42. In the Practice interface
 
 - Read step 3 of *Networking Concepts
 
@@ -586,71 +571,71 @@ After watching Plan, the player prepares for Practice
 - Select the arrow to the right to see the next steps
 
 
-.. image:: pictures/x3.png
+.. image:: pictures/D43.png
    :align: center
    :width: 700px
 
 
-4. In the AWS Console interface
+43. In the AWS Console interface
 
 - Find and select EC2
 
 
-.. image:: pictures/x4.png
+.. image:: pictures/D44.png
    :align: center
    :width: 700px
 
 
-5. In the Learn interface
+44. In the Learn interface
 
 - Read step 3 of Networking Concepts
 
 - Select the arrow to the right to see the next steps
 
 
-.. image:: pictures/x5.png
+.. image:: pictures/D45.png
    :align: center
    :width: 700px
 
 
-6. In the EC2 interface
+45. In the EC2 interface
 
 - Select Instances
 
 
-.. image:: pictures/x6.png
+.. image:: pictures/D46.png
    :align: center
    :width: 700px
 
 
-7. In the Learn interface
+46. In the Learn interface
 
 - Read step 4 Networking Concepts
 
 - Select the arrow to the right to see the next steps
 
 
-.. image:: pictures/x7.png
+.. image:: pictures/D47.png
    :align: center
    :width: 700px
 
 
 
-8. In the EC2 interface
+47. In the EC2 interface
 
 - Select Web Server instance
 
 - Copy Public IPv4 address
 
 
-.. image:: pictures/x8.png
+.. image:: pictures/D48.png
    :align: center
    :width: 700px
 
 
 
 
-9. In the Learn interface
+48. In the Learn interface
 
 - Read step 5 Networking Concepts
 
@@ -659,23 +644,23 @@ After watching Plan, the player prepares for Practice
 
 
 
-.. image:: pictures/x9.png
+.. image:: pictures/D49.png
    :align: center
    :width: 700px
 
-10. Open the browser
+49. Open the browser
 
 - Paste Public Ipv4 address and browser
 
 - View returned results
 
 
-.. image:: pictures/x10.png
+.. image:: pictures/D50.png
    :align: center
    :width: 700px
 
 
-11. In the Learn interface
+50. In the Learn interface
 
 - Read step 6 Networking Concepts
 
@@ -685,12 +670,12 @@ After watching Plan, the player prepares for Practice
 
 
 
-.. image:: pictures/x11.png
+.. image:: pictures/D51.png
    :align: center
    :width: 700px
 
 
-12. In the EC2 interface
+51. In the EC2 interface
 
 - Select Web Server instance
 
@@ -699,14 +684,14 @@ After watching Plan, the player prepares for Practice
 -In Networking details, see details Public IPv4 address and Private IPv4 addressses
 
 
-.. image:: pictures/x12.png
+.. image:: pictures/D52.png
    :align: center
    :width: 700px
 
 
 
 
-13. In the Practice interface
+52. In the Practice interface
 
 - Read step 7 of Networking Concepts
 
@@ -716,13 +701,13 @@ After watching Plan, the player prepares for Practice
 
 
 
-.. image:: pictures/x13.png
+.. image:: pictures/D53.png
    :align: center
    :width: 700px
 
 
 
-14. In the Practice interface
+53. In the Practice interface
 
 - Read step 7 of Networking Concepts
 
@@ -732,13 +717,13 @@ After watching Plan, the player prepares for Practice
 
 
 
-.. image:: pictures/x14.png
+.. image:: pictures/D54.png
    :align: center
    :width: 700px
 
 
 
-15. In the Practice interface
+54. In the Practice interface
 
 - Read step 8 of Networking Concepts
 
@@ -747,223 +732,49 @@ After watching Plan, the player prepares for Practice
 - Select the right arrow to see the next steps
 
 
-.. image:: pictures/x15.png
+.. image:: pictures/D55.png
    :align: center
    :width: 700px
 
 
 
-16. In the Subnet interface
+56. In the Practice interface
 
-- Select network-concepts
-
-- Select Route table
-
-- Choose the name Route table
-
-.. image:: pictures/x16.png
-   :align: center
-   :width: 700px
-
-
-
-17. In the Practice interface
-
-- Read step 9 of Networking Concepts
+- Read step 29 of Connecting VPCs
 
 - Read CONCEPT
 
-- Select the right arrow to see the next steps
+- Select the arrow to the right to see the next steps
 
-
-
-.. image:: pictures/x17.png
+.. image:: pictures/D56.png
    :align: center
    :width: 700px
 
 
 
-18. In the Route tables interface
+57. In the EC2 interface
 
-- Choose the name Route table
+- Connect Marketing Server using EC2 Connect
 
-- Select Routes
+- In the CLI interface, enter ping 172.31.0.10
 
-- View details about Routes
+- View connection results of Marketing Server and Finacial Services Server
 
-- Select Edit routes
+- Use Ctrl + C
 
 
-.. image:: pictures/x18.png
+
+.. image:: pictures/D57.png
    :align: center
    :width: 700px
 
 
 
-19. In the Practice interface
-
-- Read step 10 of Networking Concepts
-
-- Read CONCEPT
-
-- Select the right arrow to see the next steps
+58. Congratulations to the player on completing the lab
 
 
-
-
-.. image:: pictures/x19.png
+.. image:: pictures/D58.png
    :align: center
    :width: 700px
 
-
-
-
-20. In the Edit routes interface
-
-- View NAT gateway
-
-- Select Remove
-
-
-
-.. image:: pictures/x20.png
-   :align: center
-   :width: 700px
-
-
-
-
-21. In the Practice interface
-
-- Read step 11 of Networking Concepts
-
-- Read CONCEPT
-
-- Select the right arrow to see the next steps
-
-
-
-
-
-.. image:: pictures/x21.png
-   :align: center
-   :width: 700px
-
-
-
-22. In the Edit routes interface
-
-- Select Add route
-
-- In Destination, enter 0.0.0.0/0
-
-- In Target, select Internet Gateway
-
-- Select igw-xxxxxxx(network-concepts/VPC)
-
-- Select Save changes
-
-
-
-.. image:: pictures/x22.png
-   :align: center
-   :width: 700px
-
-
-23. In the Practice interface
-
-- Read step 12 of Networking Concepts
-
-- Read CONCEPT
-
-- Select the right arrow to see the next steps
-
-
-.. image:: pictures/x23.png
-   :align: center
-   :width: 700px
-
-
-
-24. In the Route Tables interface
-
-- View details Route table
-
-- Select Services
-
-
-
-
-.. image:: pictures/x24.png
-   :align: center
-   :width: 700px
-
-
-
-
-25. In the Practice interface
-
-- Read step 13 of Networking Concepts
-
-- Select the right arrow to see the next steps
-
-
-.. image:: pictures/x25.png
-   :align: center
-   :width: 700px
-
-
-
-26. In the EC2 interface
-
-- Select Web Server instance
-
-- Select Security
-
-- Select Security group
-
-
-.. image:: pictures/x26.png
-   :align: center
-   :width: 700px
-
-
-27. In the Practice interface
-
-- Read step 14 of Networking Concepts
-
-- Read CONCEPT
-
-- Select the right arrow to see the next steps
-
-
-
-.. image:: pictures/x27.png
-   :align: center
-   :width: 700px
-
-
-28. In the Security Groups interface
-
-- Select Edit inbound rules
-
-
-
-.. image:: pictures/x28.png
-   :align: center
-   :width: 700px
-
-
-29. In the Practice interface
-
-- Read step 15 of Networking Concepts
-
-- Read CONCEPT
-
-- Select the right arrow to see the next steps
-
-
-.. image:: pictures/x29.png
-   :align: center
-   :width: 700px
 

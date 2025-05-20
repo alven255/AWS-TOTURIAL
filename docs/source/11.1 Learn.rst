@@ -8,45 +8,43 @@ Learn helps players to understand more theory about
 
 1. In the Learn interface
 
-- Read step 1 of Diagram Steps
-
-- Select Amazon RDS Overview
+- Select AWS IAM - Overview
 
 
-.. image:: pictures/E1.png
+
+
+.. image:: pictures/0001-learn.png
    :align: center
    :width: 700px
 
 
 2. In the VIDEO CONCEPTS interface
 
-- Watch video Amazon RDS Overview
+- Watch video AWS IAM - Overview
 
-- Select X to exit
+- Select X
 
 
-.. image:: pictures/E2.png
+.. image:: pictures/0002-learn.png
    :align: center
    :width: 700px
 
 
 3. In the Learn interface
 
-- Read step 2 of Diagram Steps
+- Select AWS IAM - Manage Permissions
 
-- Select Amazon RDS - Lower Admin Burden Performance
-
-.. image:: pictures/E3.png
+.. image:: pictures/0003-learn.png
    :align: center
    :width: 700px
 
 4. In the VIDEO CONCEPTS interface
 
-- Watch the video Amazon RDS - Lower Admin Burden Performance
+- Watch video AWS IAM - Manage Permissions
 
-- Select X to exit
+- Select X
 
-.. image:: pictures/E4.png
+.. image:: pictures/0004-learn.png
    :align: center
    :width: 700px
 
@@ -54,33 +52,29 @@ Learn helps players to understand more theory about
 
 5. In the Learn interface
 
-- Read step 3 of Diagram Steps
+- See step 3 of Diagram Steps
 
-- Select Amazon RDS - Availability & Durability
-
-.. image:: pictures/E5.png
+.. image:: pictures/0005-learn.png
    :align: center
    :width: 700px
 
 
-6. In the VIDEO CONCEPT interface
+6. In the Learn interface
 
-- Watch video Amazon RDS - Availability & Durability
-
-- Select X to exit
+- See step 4 of Diagram Steps
 
 
-.. image:: pictures/E6.png
+.. image:: pictures/0006-learn.png
    :align: center
    :width: 700px
 
 
 7. In the Learn interface
 
-- Read step 4 of Diagram Steps
+- Select AWS IAM - Features Access Analysis
 
-- Select Amazon RDS - Availability & Durability
+- Select Plan
 
-.. image:: pictures/E7.png
+.. image:: pictures/0007-learn.png
    :align: center
    :width: 700px

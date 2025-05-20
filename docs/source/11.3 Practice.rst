@@ -2,20 +2,22 @@
 =================================
 
 INFO!
-
 After watching Plan, the player prepares for Practice
 
-1. Interface Practice
+1. In the Practice interface
 
-- Read step 1 of Connecting VPCs
+- Read step 1 of Core Security Concepts
 
 - Read CONCEPT
 
 - Select START LAB
 
-- Select the arrow to the right to go to the next step
+- Select the arrow to the right to see the next steps
 
-.. image:: pictures/D2.png
+
+
+
+.. image:: pictures/H1.png
    :align: center
    :width: 700px
 
@@ -23,76 +25,77 @@ After watching Plan, the player prepares for Practice
 
 2. In the Practice interface
 
-- Read step 2 of Connecting VPCs
+- Read step 2 of Core Security Concepts
 
 - Read CONCEPT
 
 - Select Open AWS Console
 
-- Select the arrow to the right to see the next step
+- Select the arrow to the right to see the next steps
 
-.. image:: pictures/D3.png
+.. image:: pictures/H2.png
    :align: center
    :width: 700px
 
 
 3. In the AWS Console interface
 
-- Find VPC
+- Find IAM
 
-- Select VPC
+- Select IAM
 
 
-.. image:: pictures/D4.png
+
+.. image:: pictures/H3.png
    :align: center
    :width: 700px
 
 
 4. In the Practice interface
 
-- Read step 3 of Connecting VPCs
+- Read step 3 of Core Security Concepts
 
 - Read CONCEPT
 
-- Select the arrow to the right to see the next step
+- Select the arrow to the right to see the next steps
 
 
-.. image:: pictures/D5.png
+
+.. image:: pictures/H4.png
    :align: center
    :width: 700px
 
 
-5. Interface VPCs
+5. In the IAM interface
 
-- Select Your VPCs
+- Select Use groups
 
-- View VPCs: Marketing, Finance and Developer
+- Select Create group
 
-
-.. image:: pictures/D6.png
+.. image:: pictures/H5.png
    :align: center
    :width: 700px
 
 
 6. In the Practice interface
 
-- Read step 4 of Connecting VPCs
+- Read step 4 of Cloud Economics
 
-- Select the arrow to the right to see the next step
+- Read CONCEPT
+
+- Select the arrow to the right to see the next steps
 
 
-.. image:: pictures/D7.png
+.. image:: pictures/H6.png
    :align: center
    :width: 700px
 
 
-7. In the AWS Console interface
+7. In the My Estimate interface
 
-- Find EC2
+- Select Add group
 
-- Select EC2
-
-.. image:: pictures/D8.png
+.. image:: pictures/H7.png
    :align: center
    :width: 700px
 
@@ -100,80 +103,83 @@ After watching Plan, the player prepares for Practice
 
 8. In the Practice interface
 
-- Read step 5 of Connecting VPCs
+- Read step 5 of Cloud Economics
+
+- Read CONCEPT
 
 - Select the arrow to the right to see the next steps
 
-.. image:: pictures/D9.png
+
+
+.. image:: pictures/H8.png
    :align: center
    :width: 700px
 
 
 
 
-9. In the EC2 interface
+9. In the Add group interface
 
-- Select Instances (running)
+- In Group settings, Group name field enter Web Servers
+
+- Then, select Add group
 
 
 
-.. image:: pictures/D10.png
+.. image:: pictures/H9.png
    :align: center
    :width: 700px
 
 10. In the Practice interface
 
-- Read step 6 of Connecting VPCs
+- Read step 6 of Cloud Economics
 
 - Read CONCEPT
 
-- Select the right arrow to see the next steps
+- Select the arrow to the right to see the next steps
 
-
-.. image:: pictures/D11.png
+.. image:: pictures/H10.png
    :align: center
    :width: 700px
 
 
-11. In the EC2 interface
+11. In the Web Server interface
 
-- Select Financial Services Server
-
-- Select Details to see details Financial Services Server
-
-- View Subnet ID of FinancePrivateSubnet
+- Select Add service
 
 
-.. image:: pictures/D12.png
+
+.. image:: pictures/H11.png
    :align: center
    :width: 700px
 
 
 12. In the Practice interface
 
-- Read step 7 of Connecting VPCs
+- Read step 7 of Cloud Economics
 
-- Select CONCEPT
+- Read CONCEPT
 
 - Select the arrow to the right to see the next steps
 
-.. image:: pictures/D13.png
+
+.. image:: pictures/H12.png
    :align: center
    :width: 700px
 
 
 
 
-13. In the EC2 interface
+13. In the Add service interface
 
-- Select Marketing Server
+- Find EC2
 
-- View VPC ID
-
-- Select Connect
+- Select Configure
 
 
-.. image:: pictures/D14.png
+
+
+.. image:: pictures/H13.png
    :align: center
    :width: 700px
 
@@ -181,27 +187,29 @@ After watching Plan, the player prepares for Practice
 
 14. In the Practice interface
 
-- Read step 8 of Connecting VPCs
+- Read step 8 of Cloud Economics
 
 - Read CONCEPT
 
 - Select the arrow to the right to see the next steps
 
 
-.. image:: pictures/D15.png
+.. image:: pictures/H14.png
    :align: center
    :width: 700px
 
 
 
-15. In the Connect to instance interface
+15. In the Configure Amazon EC2 interface
 
-- Select EC2 instance Connect
+- In Description, enter Web Server Estimate
 
-- Select Connect
+- Region, select US East (N. Virginia)
+
+- Select Advanced estimate
 
 
-.. image:: pictures/D16.png
+.. image:: pictures/H15.png
    :align: center
    :width: 700px
 
@@ -209,158 +217,136 @@ After watching Plan, the player prepares for Practice
 
 16. In the Practice interface
 
-- Read step 9 of Connecting VPCs
+- Read step 9 of Cloud Economics
+
+- Read CONCEPT
+
+- Select the arrow to the right to see the next steps
+
+.. image:: pictures/H16.png
+   :align: center
+   :width: 700px
+
+
+
+17. In EC2 instance specifications
+
+- Operating system, select Linux
+
+- Workload, select Daily spike traffic
+
+- Workload days, choose the days of the week
+
+
+
+.. image:: pictures/H17.png
+   :align: center
+   :width: 700px
+
+
+
+18. In the Practice interface
+
+- Read step 10 of Cloud Economics
+
+- Read CONCEPT
 
 - Select the arrow to the right to see the next steps
 
 
-.. image:: pictures/D17.png
+.. image:: pictures/H18.png
    :align: center
    :width: 700px
 
 
 
-17. In the Amazon Linux 2 AMI interface
+19. In Daily spike pattern
 
-- Enter ping 172.31.0.10
+- Baseline, enter 2
 
-- View results
+- Peak, enter 4
+
+- Duration of peak, enter 8 and 0
 
 
 
 
-.. image:: pictures/D18.png
+.. image:: pictures/H19.png
    :align: center
    :width: 700px
 
 
 
-18. In the VPC interface
 
-- Select Marketing Server
+20. In the Practice interface
 
-- Select Details to see details
-
-
-.. image:: pictures/D19.png
-   :align: center
-   :width: 700px
-
-
-
-19. In the Practice interface
-
-- Read step 11 of Connecting VPCs
+- Read step 11 of Cloud Economics
 
 - Read CONCEPT
 
+- Select the arrow to the right to see the next steps
 
 
-
-.. image:: pictures/D20.png
+.. image:: pictures/H20.png
    :align: center
    :width: 700px
 
 
 
 
-20. In the VPC interface
+21.In EC2 Instances
 
-- View and select Subnet ID
+- Enter 2
+
+- Select 4 GiB
+
+- Chon5 Any Network Performance
+
+- Select t2.medium
 
 
 
-.. image:: pictures/D21.png
+
+
+.. image:: pictures/H21.png
    :align: center
    :width: 700px
 
 
 
+22. In the Practice interface
 
-21. In the Practice interface
-
-- Read step 12 of Connecting VPCs
+- Read step 12 of Cloud Economics
 
 - Read CONCEPT
 
-- Select the arrow to the right to see the next step
+- Select the arrow to the right to see the next steps
 
 
 
+.. image:: pictures/H22.png
+   :align: center
+   :width: 700px
 
-.. image:: pictures/D22.png
+
+23. In Pricing strategy
+
+- Select On-Demand
+
+- Select Show calculations
+
+- Select estimated workload hours
+
+
+.. image:: pictures/H23.png
    :align: center
    :width: 700px
 
 
 
-22. In the VPC interface
+24. In the Practice interface
 
-- Select MarketingPublicSubnetSubnet1
-
-- Select Route table named MarketingPublicSubnetSubnet1
-
-
-
-.. image:: pictures/D23.png
-   :align: center
-   :width: 700px
-
-
-23. In the Practice interface
-
-- Read step 13 of Connecting VPCs
-
-- Read CONCEPT -Select the arrow to the right to see the next steps
-
-.. image:: pictures/D24.png
-   :align: center
-   :width: 700px
-
-
-
-24.In the Route table interface
-
-- Select Routes
-
-- View the routing rules
-
-
-.. image:: pictures/D25.png
-   :align: center
-   :width: 700px
-
-
-
-
-25. In the Practice interface
-
-- Read step 14 of Networking Concepts
-
-- Select the right arrow to see the next steps
-
-
-.. image:: pictures/D26.png
-   :align: center
-   :width: 700px
-
-
-
-26. In the VPC interface
-
-- Select Peering Connections
-
-- Select Create peering connection
-
-
-.. image:: pictures/D27.png
-   :align: center
-   :width: 700px
-
-
-27. In the Practice interface
-
-- Read step 15 of Connecting VPCs
+- Read step 13 of Cloud Economics
 
 - Read CONCEPT
 
@@ -369,137 +355,141 @@ After watching Plan, the player prepares for Practice
 
 
 
-.. image:: pictures/D28.png
-   :align: center
-   :width: 700px
 
-
-28. In the Create peering connection interface
-
-- In Peering connection settings, Name, enter Marketing <> Finance
-
-- Select VPC ID
-
-- Account, select My account
-
-- Region, select This Region (us-east-1)
-
-- Select VPC ID (Accepter)
-
-
-.. image:: pictures/D29.png
-   :align: center
-   :width: 700px
-
-
-29. In the Practice interface
-
-- Read step 16 of Connecting VPCs
-
-- Select the arrow to the right to see the next steps
-
-.. image:: pictures/D30.png
-   :align: center
-   :width: 700px
-
-
-30. In the VPC interface
-
-- Select Create peering connection
-
-
-
-
-.. image:: pictures/D31.png
+.. image:: pictures/H24.png
    :align: center
    :width: 700px
 
 
 
-31. In the Practice interface
 
-- Read step 17 of Connecting VPCs
+25. View Estimated workload hours
+
+.. image:: pictures/H25.png
+   :align: center
+   :width: 700px
+
+
+
+26. In the Practice interface
+
+- Read step 14 of Cloud Economics
 
 - Read CONCEPT
 
 - Select the arrow to the right to see the next steps
 
 
-.. image:: pictures/D32.png
+.. image:: pictures/H26.png
    :align: center
    :width: 700px
 
 
-32. Results after creating Peering connections
+27. In Amazon Elastic Block Storage (EBS)
 
-- Select Actions, select Accept request
+- Storage for each EC2 instance, select General Purpose SSD (gp2)
+
+- Storage amount, enter 30
+
+- Snapshot Frequency, select Weekly
+
+- Amount changed per snapshot, select 1
 
 
 
-.. image:: pictures/D33.png
+.. image:: pictures/H27.png
    :align: center
    :width: 700px
 
 
-33. In the Practice interface
+28. In the Practice interface
 
-- Read step 18 of Connecting VPCs
+- Read step 15 of Cloud Economics
+
+- Read CONCEPT
+
+- Select the arrow to the right to see the next steps
+
+
+.. image:: pictures/H28.png
+   :align: center
+   :width: 700px
+
+
+29. In Data Transfer
+
+- Select Internet (free), enter 1, select TB per month
+
+- In Outbound Data Transfer, select Internet($0.05 - $0.09 per GB), enter 100, select GB per month
+
+- Select Show calculations
+
+.. image:: pictures/H29.png
+   :align: center
+   :width: 700px
+
+
+30. In the Practice interface
+
+- Read step 16 of Cloud Economics
+
+- Read CONCEPT
+
+- Select the arrow to the right to see the next steps
+
+.. image:: pictures/H30.png
+   :align: center
+   :width: 700px
+
+
+
+31. Review and select Add to my estimate
+
+.. image:: pictures/H31.png
+   :align: center
+   :width: 700px
+
+
+32. In the Practice interface
+
+- Read step 17 of Cloud Economics
+
+- Read CONCEPT
 
 - Select the arrow to the right to see the next steps
 
 
 
-
-
-.. image:: pictures/D34.png
+.. image:: pictures/H32.png
    :align: center
    :width: 700px
 
 
-34. In the VPC* interface
-
-- In Accept VPC peering connection request, select Accept request
+33. Result interface Web Servers, select Share
 
 
 
-.. image:: pictures/D35.png
+
+.. image:: pictures/H33.png
+   :align: center
+   :width: 700px
+
+
+34. In the Practice interface
+
+- Read step 18 of Cloud Economics
+
+- Read CONCEPT
+
+- Select the arrow to the right to see the next steps
+
+.. image:: pictures/n34.png
    :align: center
    :width: 700px
 
 35. In the Practice interface
 
-- Read step 19 of Connecting VPCs
-
-- Read CONCEPT
-
-- Select the arrow to the right to see the next steps
-
-
-.. image:: pictures/D36.png
-   :align: center
-   :width: 700px
-
-
-36. In the VPC interface
-
-- Select Route Tables
-
-- Select the route table named MarketingPublicSubnet1
-
-- Select Routes
-
-- Select Edit routes
-
-
-
-.. image:: pictures/D37.png
-   :align: center
-   :width: 700px
-
-
-37. In the Practice interface
-
-- Read step 19 of Connecting VPCs
+- Read step 18 of Core Security Concepts
 
 - Read CONCEPT
 
@@ -507,6 +497,33 @@ After watching Plan, the player prepares for Practice
 
 
 
-.. image:: pictures/D38.png
+.. image:: pictures/H35.png
+   :align: center
+   :width: 700px
+
+
+36. In the Practice interface
+
+- Read step 19 of Cloud Economics
+
+- Read CONCEPT
+
+- Select the arrow to the right to see the next steps
+
+.. image:: pictures/H36.png
+   :align: center
+   :width: 700px
+
+
+37. Lab results
+
+
+.. image:: pictures/H37.png
+   :align: center
+   :width: 700px
+
+38. Congratulations to the player on completing the lab
+
+.. image:: pictures/H38.png
    :align: center
    :width: 700px

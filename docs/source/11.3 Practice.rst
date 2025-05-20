@@ -1,2 +1,512 @@
 11.3 Practice
-===================
+=================================
+
+INFO!
+
+After watching Plan, the player prepares for Practice
+
+1. Interface Practice
+
+- Read step 1 of Connecting VPCs
+
+- Read CONCEPT
+
+- Select START LAB
+
+- Select the arrow to the right to go to the next step
+
+.. image:: pictures/D2.png
+   :align: center
+   :width: 700px
+
+
+
+2. In the Practice interface
+
+- Read step 2 of Connecting VPCs
+
+- Read CONCEPT
+
+- Select Open AWS Console
+
+- Select the arrow to the right to see the next step
+
+.. image:: pictures/D3.png
+   :align: center
+   :width: 700px
+
+
+3. In the AWS Console interface
+
+- Find VPC
+
+- Select VPC
+
+
+.. image:: pictures/D4.png
+   :align: center
+   :width: 700px
+
+
+4. In the Practice interface
+
+- Read step 3 of Connecting VPCs
+
+- Read CONCEPT
+
+- Select the arrow to the right to see the next step
+
+
+.. image:: pictures/D5.png
+   :align: center
+   :width: 700px
+
+
+5. Interface VPCs
+
+- Select Your VPCs
+
+- View VPCs: Marketing, Finance and Developer
+
+
+.. image:: pictures/D6.png
+   :align: center
+   :width: 700px
+
+
+6. In the Practice interface
+
+- Read step 4 of Connecting VPCs
+
+- Select the arrow to the right to see the next step
+
+
+.. image:: pictures/D7.png
+   :align: center
+   :width: 700px
+
+
+7. In the AWS Console interface
+
+- Find EC2
+
+- Select EC2
+
+.. image:: pictures/D8.png
+   :align: center
+   :width: 700px
+
+
+
+8. In the Practice interface
+
+- Read step 5 of Connecting VPCs
+
+- Select the arrow to the right to see the next steps
+
+.. image:: pictures/D9.png
+   :align: center
+   :width: 700px
+
+
+
+
+9. In the EC2 interface
+
+- Select Instances (running)
+
+
+
+.. image:: pictures/D10.png
+   :align: center
+   :width: 700px
+
+10. In the Practice interface
+
+- Read step 6 of Connecting VPCs
+
+- Read CONCEPT
+
+- Select the right arrow to see the next steps
+
+
+.. image:: pictures/D11.png
+   :align: center
+   :width: 700px
+
+
+11. In the EC2 interface
+
+- Select Financial Services Server
+
+- Select Details to see details Financial Services Server
+
+- View Subnet ID of FinancePrivateSubnet
+
+
+.. image:: pictures/D12.png
+   :align: center
+   :width: 700px
+
+
+12. In the Practice interface
+
+- Read step 7 of Connecting VPCs
+
+- Select CONCEPT
+
+- Select the arrow to the right to see the next steps
+
+.. image:: pictures/D13.png
+   :align: center
+   :width: 700px
+
+
+
+
+13. In the EC2 interface
+
+- Select Marketing Server
+
+- View VPC ID
+
+- Select Connect
+
+
+.. image:: pictures/D14.png
+   :align: center
+   :width: 700px
+
+
+
+14. In the Practice interface
+
+- Read step 8 of Connecting VPCs
+
+- Read CONCEPT
+
+- Select the arrow to the right to see the next steps
+
+
+.. image:: pictures/D15.png
+   :align: center
+   :width: 700px
+
+
+
+15. In the Connect to instance interface
+
+- Select EC2 instance Connect
+
+- Select Connect
+
+
+.. image:: pictures/D16.png
+   :align: center
+   :width: 700px
+
+
+
+16. In the Practice interface
+
+- Read step 9 of Connecting VPCs
+
+- Select the arrow to the right to see the next steps
+
+
+.. image:: pictures/D17.png
+   :align: center
+   :width: 700px
+
+
+
+17. In the Amazon Linux 2 AMI interface
+
+- Enter ping 172.31.0.10
+
+- View results
+
+
+
+
+.. image:: pictures/D18.png
+   :align: center
+   :width: 700px
+
+
+
+18. In the VPC interface
+
+- Select Marketing Server
+
+- Select Details to see details
+
+
+.. image:: pictures/D19.png
+   :align: center
+   :width: 700px
+
+
+
+19. In the Practice interface
+
+- Read step 11 of Connecting VPCs
+
+- Read CONCEPT
+
+
+
+
+.. image:: pictures/D20.png
+   :align: center
+   :width: 700px
+
+
+
+
+20. In the VPC interface
+
+- View and select Subnet ID
+
+
+
+.. image:: pictures/D21.png
+   :align: center
+   :width: 700px
+
+
+
+
+21. In the Practice interface
+
+- Read step 12 of Connecting VPCs
+
+- Read CONCEPT
+
+- Select the arrow to the right to see the next step
+
+
+
+
+.. image:: pictures/D22.png
+   :align: center
+   :width: 700px
+
+
+
+22. In the VPC interface
+
+- Select MarketingPublicSubnetSubnet1
+
+- Select Route table named MarketingPublicSubnetSubnet1
+
+
+
+.. image:: pictures/D23.png
+   :align: center
+   :width: 700px
+
+
+23. In the Practice interface
+
+- Read step 13 of Connecting VPCs
+
+- Read CONCEPT -Select the arrow to the right to see the next steps
+
+.. image:: pictures/D24.png
+   :align: center
+   :width: 700px
+
+
+
+24.In the Route table interface
+
+- Select Routes
+
+- View the routing rules
+
+
+.. image:: pictures/D25.png
+   :align: center
+   :width: 700px
+
+
+
+
+25. In the Practice interface
+
+- Read step 14 of Networking Concepts
+
+- Select the right arrow to see the next steps
+
+
+.. image:: pictures/D26.png
+   :align: center
+   :width: 700px
+
+
+
+26. In the VPC interface
+
+- Select Peering Connections
+
+- Select Create peering connection
+
+
+.. image:: pictures/D27.png
+   :align: center
+   :width: 700px
+
+
+27. In the Practice interface
+
+- Read step 15 of Connecting VPCs
+
+- Read CONCEPT
+
+- Select the arrow to the right to see the next steps
+
+
+
+
+.. image:: pictures/D28.png
+   :align: center
+   :width: 700px
+
+
+28. In the Create peering connection interface
+
+- In Peering connection settings, Name, enter Marketing <> Finance
+
+- Select VPC ID
+
+- Account, select My account
+
+- Region, select This Region (us-east-1)
+
+- Select VPC ID (Accepter)
+
+
+.. image:: pictures/D29.png
+   :align: center
+   :width: 700px
+
+
+29. In the Practice interface
+
+- Read step 16 of Connecting VPCs
+
+- Select the arrow to the right to see the next steps
+
+.. image:: pictures/D30.png
+   :align: center
+   :width: 700px
+
+
+30. In the VPC interface
+
+- Select Create peering connection
+
+
+
+
+.. image:: pictures/D31.png
+   :align: center
+   :width: 700px
+
+
+
+31. In the Practice interface
+
+- Read step 17 of Connecting VPCs
+
+- Read CONCEPT
+
+- Select the arrow to the right to see the next steps
+
+
+.. image:: pictures/D32.png
+   :align: center
+   :width: 700px
+
+
+32. Results after creating Peering connections
+
+- Select Actions, select Accept request
+
+
+
+.. image:: pictures/D33.png
+   :align: center
+   :width: 700px
+
+
+33. In the Practice interface
+
+- Read step 18 of Connecting VPCs
+
+- Select the arrow to the right to see the next steps
+
+
+
+
+
+.. image:: pictures/D34.png
+   :align: center
+   :width: 700px
+
+
+34. In the VPC* interface
+
+- In Accept VPC peering connection request, select Accept request
+
+
+
+.. image:: pictures/D35.png
+   :align: center
+   :width: 700px
+
+35. In the Practice interface
+
+- Read step 19 of Connecting VPCs
+
+- Read CONCEPT
+
+- Select the arrow to the right to see the next steps
+
+
+.. image:: pictures/D36.png
+   :align: center
+   :width: 700px
+
+
+36. In the VPC interface
+
+- Select Route Tables
+
+- Select the route table named MarketingPublicSubnet1
+
+- Select Routes
+
+- Select Edit routes
+
+
+
+.. image:: pictures/D37.png
+   :align: center
+   :width: 700px
+
+
+37. In the Practice interface
+
+- Read step 19 of Connecting VPCs
+
+- Read CONCEPT
+
+- Select the arrow to the right to see the next steps
+
+
+
+.. image:: pictures/D38.png
+   :align: center
+   :width: 700px
